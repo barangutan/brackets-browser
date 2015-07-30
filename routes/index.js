@@ -1,30 +1,43 @@
+var db = require('../lib/db.js');
 var express = require('express');
 var router = express.Router();
 
-var low = require('lowdb')
-var db = low('themes.json')
-
 router.get('/', function(req, res, next) {
  
-    var top5 = db('themes')
+    var themes = db
                 .chain()
+                .where({saved: true})
                 .sortByOrder('totalDownloads', 'desc')
-                .take(15)
                 .value();
 
-    res.render('index', { title: 'Top 15 Brackets.io Themes', top: top5});
+    res.render('index', { themes: themes, partials: {sidebar: 'sidebar'}});
 });
 
-router.get('/light', function(req, res, next) {
- 
-    var top5light = db('themes')
-                    .chain()
-                    .where({theme: {dark: false}})
-                    .sortByOrder('totalDownloads', 'desc')
-                    .take(15)
-                    .value();
+router.get('/:darklight', function(req, res, next) {
+    var isDark = (req.params.darklight === 'dark') ? true : false;
+    
+    var local = db
+                .chain()
+                .where({theme: {dark: isDark}})
+                .sortByOrder('totalDownloads', 'desc')
+                .value();
 
-    res.render('index', { title: 'Top 15 \'light\' Brackets.io Themes', top: top5light});
+    res.render('index', { themes: local, partials: {sidebar: 'sidebar'}});
+});
+
+router.get('/theme/:name', function(req, res, next) {
+    
+    var themes = db
+                .chain()
+                .where({saved: true})
+                .sortByOrder('totalDownloads', 'desc')
+                .value();
+ 
+    var theme = db.chain().where({name: req.params.name}).first().value();
+    var style = theme.name + '.' + theme.version;
+    
+
+    res.render('theme', { theme: theme, themes: themes, stylesheet: style, partials: {sidebar: 'sidebar'}});
 });
 
 module.exports = router;

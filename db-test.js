@@ -1,29 +1,35 @@
-var db = require('lowdb')('themes.json');
+var db = require('./lib/db.js');
+
 var xtend = require('xtend');
-var github = require('octonode');
 var request = require('request');
 var fs = require('fs');
 
-var client = github.client();
 
-var top5 = db('themes').chain().sortByOrder('totalDownloads', 'desc').take(10).value();
-top5.forEach(function(theme, index) {
-    var repo_array = theme.homepage.split('/');
-    var repository = repo_array[3] + '/' + repo_array[4];
+var top5 = db.chain().sortByOrder('totalDownloads', 'desc').take(25).value();
+db.forEach(function(theme, index) {
     
-    if(repo_array[2] === 'github.com') {
-        
-        var url = 'https://raw.githubusercontent.com/' + repository + '/master/' + theme.theme.file;
+    if(typeof theme.homepage !== 'undefined')  {
+        var repo_array = theme.homepage.split('/');
+        var repository = repo_array[3] + '/' + repo_array[4];
 
-        request(url, function(err, res, body) {
-            if(err || res.statusCode !== 200)
-                console.log('[%d] %s', res.statusCode, err);
+        if(repo_array[2] === 'github.com') {
 
-        }).on('error', function(err) {
-            console.log('ERrror: ' + err);
-            
-        }).pipe(fs.createWriteStream(__dirname + '/assets/' + theme.name + '.' + theme.version + '.css'));
+            var url = 'https://raw.githubusercontent.com/' + repository + '/master/' + theme.theme.file;
 
+            request(url, function(err, res, body) {
+                if(err || res.statusCode !== 200) {
+                    console.log('[%d] %s (%s)', res.statusCode, err, theme.name);
+                } else {
+                    db.update(theme.name, {saved: true});
+                    console.log('Saved \'%s\'', theme.name);
+                }
+
+            }).on('error', function(err) {
+                console.log('ERrror: ' + err);
+
+            }).pipe(fs.createWriteStream(__dirname + '/public/stylesheets/assets/' + theme.name + '.' + theme.version + '.less'));
+
+        }
 
     }
     //var repo = github.repo('pksunkara/hub');

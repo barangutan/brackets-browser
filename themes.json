@@ -22,7 +22,8 @@
         "file": "808.css",
         "dark": true
       },
-      "totalDownloads": 4030
+      "totalDownloads": 4030,
+      "saved": true
     },
     {
       "title": "Zamiere Dark",
@@ -46,7 +47,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7296
+      "totalDownloads": 7296,
+      "saved": true
     },
     {
       "title": "Visual Studio Theme",
@@ -91,7 +93,8 @@
         "dark": true
       },
       "screenshot": "JS.png",
-      "totalDownloads": 16674
+      "totalDownloads": 16674,
+      "saved": true
     },
     {
       "title": "Railcasts",
@@ -116,7 +119,8 @@
         "dark": true
       },
       "screenshot": "railcasts_php.png",
-      "totalDownloads": 4975
+      "totalDownloads": 4975,
+      "saved": true
     },
     {
       "title": "Ruby Blue",
@@ -148,7 +152,8 @@
         "dark": true
       },
       "screenshot": "ss/rb-js.PNG",
-      "totalDownloads": 15564
+      "totalDownloads": 15564,
+      "saved": true
     },
     {
       "title": "Envy",
@@ -173,7 +178,8 @@
         "dark": true
       },
       "screenshot": "envy-screenshot-js.png",
-      "totalDownloads": 3356
+      "totalDownloads": 3356,
+      "saved": true
     },
     {
       "title": "Monokai",
@@ -198,7 +204,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 38662
+      "totalDownloads": 38662,
+      "saved": true
     },
     {
       "title": "Enlightend",
@@ -223,7 +230,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 2380
+      "totalDownloads": 2380,
+      "saved": true
     },
     {
       "title": "Tomorrow Night",
@@ -248,7 +256,8 @@
         "dark": true
       },
       "screenshot": "tomorrow-night-screenshot-css.png",
-      "totalDownloads": 7099
+      "totalDownloads": 7099,
+      "saved": true
     },
     {
       "title": "80's Baby",
@@ -272,7 +281,8 @@
         "file": "80sbaby.css",
         "dark": true
       },
-      "totalDownloads": 5787
+      "totalDownloads": 5787,
+      "saved": true
     },
     {
       "title": "Visual Studio",
@@ -295,7 +305,8 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7227
+      "totalDownloads": 7227,
+      "saved": true
     },
     {
       "title": "Solarized",
@@ -318,7 +329,8 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4723
+      "totalDownloads": 4723,
+      "saved": true
     },
     {
       "title": "The Hamptons",
@@ -342,7 +354,8 @@
         "file": "thehamptons.css",
         "dark": false
       },
-      "totalDownloads": 3237
+      "totalDownloads": 3237,
+      "saved": true
     },
     {
       "title": "Easy Dark",
@@ -366,7 +379,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 9145
+      "totalDownloads": 9145,
+      "saved": true
     },
     {
       "name": "brackets-mystique-theme",
@@ -422,7 +436,8 @@
         "file": "skullomania.css",
         "dark": true
       },
-      "totalDownloads": 3722
+      "totalDownloads": 3722,
+      "saved": true
     },
     {
       "title": "Monokai Dark Soda",
@@ -457,7 +472,8 @@
         "extension",
         "css"
       ],
-      "totalDownloads": 57238
+      "totalDownloads": 57238,
+      "saved": true
     },
     {
       "name": "zenburn-theme",
@@ -476,7 +492,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 7171
+      "totalDownloads": 7171,
+      "saved": true
     },
     {
       "name": "solarized-light-theme",
@@ -518,7 +535,8 @@
         "file": "light-soda.css"
       },
       "screenshot": "CSS.png",
-      "totalDownloads": 9624
+      "totalDownloads": 9624,
+      "saved": true
     },
     {
       "title": "Star Platinum Dark",
@@ -542,7 +560,8 @@
         "file": "starplatinumdark.css",
         "dark": true
       },
-      "totalDownloads": 4245
+      "totalDownloads": 4245,
+      "saved": true
     },
     {
       "title": "Star Platinum Light",
@@ -566,7 +585,8 @@
         "file": "starplatinumlight.css",
         "dark": false
       },
-      "totalDownloads": 3583
+      "totalDownloads": 3583,
+      "saved": true
     },
     {
       "title": "Delkos Dark Theme",
@@ -589,7 +609,8 @@
         "file": "delkos.css",
         "dark": true
       },
-      "totalDownloads": 5663
+      "totalDownloads": 5663,
+      "saved": true
     },
     {
       "title": "Material Dark",
@@ -671,7 +692,8 @@
         "dark",
         "theme"
       ],
-      "totalDownloads": 11996
+      "totalDownloads": 11996,
+      "saved": true
     },
     {
       "title": "Dieter Bamz",
@@ -695,7 +717,8 @@
         "file": "dieterbamz.css",
         "dark": false
       },
-      "totalDownloads": 2554
+      "totalDownloads": 2554,
+      "saved": true
     },
     {
       "title": "Photon Racer",
@@ -719,7 +742,8 @@
         "file": "photonracer.css",
         "dark": true
       },
-      "totalDownloads": 3486
+      "totalDownloads": 3486,
+      "saved": true
     },
     {
       "title": "MBO Theme",
@@ -743,13 +767,14 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4809
+      "totalDownloads": 4809,
+      "saved": true
     },
     {
       "title": "DarkSoda",
       "name": "dark_soda_theme",
       "description": "The DarkSoda is a Theme for Brackets!",
-      "version": "0.1.6",
+      "version": "1.0.6",
       "author": {
         "name": "Denisov21"
       },
@@ -766,7 +791,9 @@
         "file": "dark-soda.css",
         "dark": true
       },
-      "totalDownloads": 26610
+      "totalDownloads": 26610,
+      "compiled": true,
+      "saved": true
     },
     {
       "title": "Thunderstorm",
@@ -789,7 +816,8 @@
         "file": "theme.less",
         "dark": true
       },
-      "totalDownloads": 3223
+      "totalDownloads": 3223,
+      "saved": true
     },
     {
       "title": "Son of Hammsidian",
@@ -818,7 +846,8 @@
         "file": "son_of_hammsidian.css",
         "dark": true
       },
-      "totalDownloads": 2476
+      "totalDownloads": 2476,
+      "saved": true
     },
     {
       "title": "Twilight",
@@ -842,7 +871,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 3774
+      "totalDownloads": 3774,
+      "saved": true
     },
     {
       "title": "Quick Dark",
@@ -874,7 +904,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.6",
-      "totalDownloads": 31353
+      "totalDownloads": 31353,
+      "saved": true
     },
     {
       "name": "circlewaves.darcula-theme",
@@ -922,7 +953,8 @@
         "file": "guardians.css",
         "dark": true
       },
-      "totalDownloads": 2655
+      "totalDownloads": 2655,
+      "saved": true
     },
     {
       "title": "Quick Light",
@@ -954,7 +986,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.6",
-      "totalDownloads": 18068
+      "totalDownloads": 18068,
+      "saved": true
     },
     {
       "name": "soft-dark",
@@ -980,7 +1013,8 @@
         "soft",
         "soft-dark"
       ],
-      "totalDownloads": 4858
+      "totalDownloads": 4858,
+      "saved": true
     },
     {
       "title": "The Weaver",
@@ -1004,7 +1038,8 @@
         "file": "theweaver.css",
         "dark": true
       },
-      "totalDownloads": 2149
+      "totalDownloads": 2149,
+      "saved": true
     },
     {
       "title": "Care Bear Stare",
@@ -1028,7 +1063,8 @@
         "file": "carebearstare.css",
         "dark": false
       },
-      "totalDownloads": 2473
+      "totalDownloads": 2473,
+      "saved": true
     },
     {
       "title": "Care Bear Stare Dark",
@@ -1052,7 +1088,8 @@
         "file": "carebearstaredark.css",
         "dark": true
       },
-      "totalDownloads": 2472
+      "totalDownloads": 2472,
+      "saved": true
     },
     {
       "title": "Dune",
@@ -1076,7 +1113,8 @@
         "file": "dune.css",
         "dark": false
       },
-      "totalDownloads": 4078
+      "totalDownloads": 4078,
+      "saved": true
     },
     {
       "title": "Energy",
@@ -1100,7 +1138,8 @@
         "file": "energy.css",
         "dark": true
       },
-      "totalDownloads": 3605
+      "totalDownloads": 3605,
+      "saved": true
     },
     {
       "title": "Coolwater",
@@ -1124,7 +1163,8 @@
         "file": "coolwater.css",
         "dark": false
       },
-      "totalDownloads": 4435
+      "totalDownloads": 4435,
+      "saved": true
     },
     {
       "title": "Atom Dark Theme",
@@ -1148,7 +1188,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 12351
+      "totalDownloads": 12351,
+      "saved": true
     },
     {
       "title": "Atom Light Theme",
@@ -1171,7 +1212,8 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7021
+      "totalDownloads": 7021,
+      "saved": true
     },
     {
       "title": "Snagglepanther",
@@ -1195,7 +1237,8 @@
         "file": "snagglepanther.css",
         "dark": false
       },
-      "totalDownloads": 1860
+      "totalDownloads": 1860,
+      "saved": true
     },
     {
       "title": "Lion",
@@ -1219,7 +1262,8 @@
         "file": "lion.css",
         "dark": true
       },
-      "totalDownloads": 7755
+      "totalDownloads": 7755,
+      "saved": true
     },
     {
       "title": "Northstar",
@@ -1243,7 +1287,8 @@
         "file": "northstar.css",
         "dark": true
       },
-      "totalDownloads": 2415
+      "totalDownloads": 2415,
+      "saved": true
     },
     {
       "name": "nico.slickrock",
@@ -1264,7 +1309,8 @@
         "dark",
         "flat"
       ],
-      "totalDownloads": 2827
+      "totalDownloads": 2827,
+      "saved": true
     },
     {
       "title": "Machiato Libre",
@@ -1287,7 +1333,8 @@
         "file": "machiato.css",
         "dark": true
       },
-      "totalDownloads": 2411
+      "totalDownloads": 2411,
+      "saved": true
     },
     {
       "title": "Midnight Glow",
@@ -1311,7 +1358,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 4145
+      "totalDownloads": 4145,
+      "saved": true
     },
     {
       "title": "Notepad++ Theme",
@@ -1338,7 +1386,8 @@
         "file": "notepadplus.css",
         "dark": true
       },
-      "totalDownloads": 4927
+      "totalDownloads": 4927,
+      "saved": true
     },
     {
       "title": "Tomorrow Night Bright",
@@ -1406,7 +1455,8 @@
         "dark": true
       },
       "screenshot": "jellybeans.png",
-      "totalDownloads": 8375
+      "totalDownloads": 8375,
+      "saved": true
     },
     {
       "name": "kmelkon.seti-syntax",
@@ -1427,7 +1477,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3197
+      "totalDownloads": 3197,
+      "saved": true
     },
     {
       "title": "Mushin Dark",
@@ -1451,7 +1502,8 @@
         "file": "mushindark.css",
         "dark": true
       },
-      "totalDownloads": 3215
+      "totalDownloads": 3215,
+      "saved": true
     },
     {
       "title": "Mushin Light",
@@ -1475,7 +1527,8 @@
         "file": "mushinlight.css",
         "dark": false
       },
-      "totalDownloads": 2382
+      "totalDownloads": 2382,
+      "saved": true
     },
     {
       "title": "Nature",
@@ -1499,7 +1552,8 @@
         "file": "nature.css",
         "dark": true
       },
-      "totalDownloads": 9683
+      "totalDownloads": 9683,
+      "saved": true
     },
     {
       "name": "kmelkon.material-brackets",
@@ -1520,7 +1574,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5143
+      "totalDownloads": 5143,
+      "saved": true
     },
     {
       "title": "Son of Monokai",
@@ -1549,7 +1604,8 @@
         "theme",
         "dark"
       ],
-      "totalDownloads": 12050
+      "totalDownloads": 12050,
+      "saved": true
     },
     {
       "name": "vtrrsl.lapland",
@@ -1570,7 +1626,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3766
+      "totalDownloads": 3766,
+      "saved": true
     },
     {
       "name": "spissl.obsidian",
@@ -1593,7 +1650,8 @@
       "keywords": [
         "obsidian, theme"
       ],
-      "totalDownloads": 7588
+      "totalDownloads": 7588,
+      "saved": true
     },
     {
       "name": "solarized-light",
@@ -1618,7 +1676,8 @@
         "Solarized",
         "Light"
       ],
-      "totalDownloads": 4544
+      "totalDownloads": 4544,
+      "saved": true
     },
     {
       "name": "solarized-dark",
@@ -1643,7 +1702,8 @@
         "Solarized",
         "Dark"
       ],
-      "totalDownloads": 6873
+      "totalDownloads": 6873,
+      "saved": true
     },
     {
       "title": "Monokai Redux",
@@ -1671,7 +1731,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 8078
+      "totalDownloads": 8078,
+      "saved": true
     },
     {
       "title": "Newton Light",
@@ -1695,7 +1756,8 @@
         "file": "newtonlight.css",
         "dark": false
       },
-      "totalDownloads": 3706
+      "totalDownloads": 3706,
+      "saved": true
     },
     {
       "title": "Newton Dark",
@@ -1719,7 +1781,8 @@
         "file": "newtondark.css",
         "dark": true
       },
-      "totalDownloads": 5527
+      "totalDownloads": 5527,
+      "saved": true
     },
     {
       "title": "Varz Dark",
@@ -1743,7 +1806,8 @@
         "file": "varzdark.css",
         "dark": true
       },
-      "totalDownloads": 3757
+      "totalDownloads": 3757,
+      "saved": true
     },
     {
       "name": "kiwi-kiwi-dark",
@@ -1763,7 +1827,8 @@
         "theme",
         "dark"
       ],
-      "totalDownloads": 4332
+      "totalDownloads": 4332,
+      "saved": true
     },
     {
       "title": "Java Light",
@@ -1787,7 +1852,8 @@
         "file": "java-light.less",
         "dark": false
       },
-      "totalDownloads": 3853
+      "totalDownloads": 3853,
+      "saved": true
     },
     {
       "name": "spissl.son-of-obsidian",
@@ -1810,7 +1876,8 @@
       "keywords": [
         "Son of Obsidian, theme"
       ],
-      "totalDownloads": 2971
+      "totalDownloads": 2971,
+      "saved": true
     },
     {
       "name": "wombatish-theme",
@@ -1834,7 +1901,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5465
+      "totalDownloads": 5465,
+      "saved": true
     },
     {
       "title": "iPlastic",
@@ -1858,7 +1926,8 @@
         "file": "iplastic.css",
         "dark": false
       },
-      "totalDownloads": 3992
+      "totalDownloads": 3992,
+      "saved": true
     },
     {
       "title": "Midnight Pumpkin",
@@ -1882,7 +1951,8 @@
         "file": "midnightpumpkin.css",
         "dark": true
       },
-      "totalDownloads": 3871
+      "totalDownloads": 3871,
+      "saved": true
     },
     {
       "title": "Rhode Island Red",
@@ -1912,7 +1982,8 @@
         "dark": true
       },
       "screenshot": "screenshots/js.PNG",
-      "totalDownloads": 8267
+      "totalDownloads": 8267,
+      "saved": true
     },
     {
       "title": "Azrem",
@@ -1936,7 +2007,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 2186
+      "totalDownloads": 2186,
+      "saved": true
     },
     {
       "title": "Pinkcutie",
@@ -1982,7 +2054,8 @@
         "file": "moonlitglacier.css",
         "dark": true
       },
-      "totalDownloads": 4377
+      "totalDownloads": 4377,
+      "saved": true
     },
     {
       "name": "laron.liquid",
@@ -2007,7 +2080,8 @@
       "categories": [
         "visual"
       ],
-      "totalDownloads": 7732
+      "totalDownloads": 7732,
+      "saved": true
     },
     {
       "name": "robingruenke.icecream",
@@ -2026,7 +2100,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3226
+      "totalDownloads": 3226,
+      "saved": true
     },
     {
       "name": "reginbald.flat-theme",
@@ -2056,7 +2131,8 @@
         "dark",
         "theme"
       ],
-      "totalDownloads": 5547
+      "totalDownloads": 5547,
+      "saved": true
     },
     {
       "name": "specials-menu",
@@ -2105,7 +2181,8 @@
       "theme": {
         "file": "main.less"
       },
-      "totalDownloads": 1705
+      "totalDownloads": 1705,
+      "saved": true
     },
     {
       "title": "Flattark Dark",
@@ -2135,7 +2212,8 @@
         "dark": true
       },
       "screenshot": "screen.png",
-      "totalDownloads": 10042
+      "totalDownloads": 10042,
+      "saved": true
     },
     {
       "name": "aurooba.happylike",
@@ -2156,7 +2234,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2936
+      "totalDownloads": 2936,
+      "saved": true
     },
     {
       "name": "brunnopleffken.light-table-theme",
@@ -2177,7 +2256,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4225
+      "totalDownloads": 4225,
+      "saved": true
     },
     {
       "title": "Fox - Dark",
@@ -2209,7 +2289,8 @@
         "dark": true
       },
       "screenshot": "screenshots/fox.dark--js.jpg",
-      "totalDownloads": 5562
+      "totalDownloads": 5562,
+      "saved": true
     },
     {
       "title": "Dreamweaver Theme",
@@ -2230,7 +2311,8 @@
         "file": "theme.css",
         "dark": false
       },
-      "totalDownloads": 5981
+      "totalDownloads": 5981,
+      "saved": true
     },
     {
       "name": "yo-theme",
@@ -2251,7 +2333,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2446
+      "totalDownloads": 2446,
+      "saved": true
     },
     {
       "title": "Visual Studio Dark",
@@ -2281,7 +2364,8 @@
       "engines": {
         "brackets": ">=1.1.0"
       },
-      "totalDownloads": 14985
+      "totalDownloads": 14985,
+      "saved": true
     },
     {
       "title": "Chrome",
@@ -2334,7 +2418,8 @@
         "dark": true
       },
       "screenshot": "screen.png",
-      "totalDownloads": 6213
+      "totalDownloads": 6213,
+      "saved": true
     },
     {
       "title": "Github Theme",
@@ -2357,7 +2442,8 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 5385
+      "totalDownloads": 5385,
+      "saved": true
     },
     {
       "title": "Dream PHP",
@@ -2390,7 +2476,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.0.0",
-      "totalDownloads": 5292
+      "totalDownloads": 5292,
+      "saved": true
     },
     {
       "name": "com.rubenengelbrecht.frackets",
@@ -2411,7 +2498,8 @@
       "keywords": [
         "theme, flat, ruben, engelbrecht, frackets, beautiful"
       ],
-      "totalDownloads": 2592
+      "totalDownloads": 2592,
+      "saved": true
     },
     {
       "name": "tremendus-dark-theme",
@@ -2430,7 +2518,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4414
+      "totalDownloads": 4414,
+      "saved": true
     },
     {
       "title": "Zeedijk",
@@ -2453,7 +2542,8 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 2321
+      "totalDownloads": 2321,
+      "saved": true
     },
     {
       "name": "dustindowell.neon",
@@ -2478,7 +2568,8 @@
         "neon",
         "dark"
       ],
-      "totalDownloads": 28426
+      "totalDownloads": 28426,
+      "saved": true
     },
     {
       "name": "os.xcode.theme",
@@ -2507,7 +2598,8 @@
         "yosemite",
         "avril"
       ],
-      "totalDownloads": 16382
+      "totalDownloads": 16382,
+      "saved": true
     },
     {
       "name": "kreshikhin.alien-planet",
@@ -2532,7 +2624,8 @@
         "alien",
         "planet"
       ],
-      "totalDownloads": 2597
+      "totalDownloads": 2597,
+      "saved": true
     },
     {
       "title": "Brackets Very Dark",
@@ -2612,7 +2705,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3462
+      "totalDownloads": 3462,
+      "saved": true
     },
     {
       "name": "funkemedia.fnk-dark-theme",
@@ -2636,7 +2730,8 @@
         "dark",
         "dreamweaver"
       ],
-      "totalDownloads": 4599
+      "totalDownloads": 4599,
+      "saved": true
     },
     {
       "name": "jimgallaher.cobalt",
@@ -2662,7 +2757,8 @@
         "cobalt",
         "dark"
       ],
-      "totalDownloads": 4162
+      "totalDownloads": 4162,
+      "saved": true
     },
     {
       "name": "jimgallaherblackboard",
@@ -2688,7 +2784,8 @@
         "blackboard",
         "dark"
       ],
-      "totalDownloads": 5264
+      "totalDownloads": 5264,
+      "saved": true
     },
     {
       "name": "jimgallaher.hannah",
@@ -2714,7 +2811,8 @@
         "hannah",
         "purple"
       ],
-      "totalDownloads": 2144
+      "totalDownloads": 2144,
+      "saved": true
     },
     {
       "title": "Ceratrior",
@@ -2730,7 +2828,8 @@
         "file": "ceratrior.css",
         "dark": true
       },
-      "totalDownloads": 2339
+      "totalDownloads": 2339,
+      "saved": true
     },
     {
       "title": "Stripper",
@@ -2754,7 +2853,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 10697
+      "totalDownloads": 10697,
+      "saved": true
     },
     {
       "name": "hegdeashwin.brackets-nodejs-theme",
@@ -2776,7 +2876,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2762
+      "totalDownloads": 2762,
+      "saved": true
     },
     {
       "title": "Blumberry Theme",
@@ -2808,7 +2909,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.0",
-      "totalDownloads": 3092
+      "totalDownloads": 3092,
+      "saved": true
     },
     {
       "name": "josephgf.obsidian2",
@@ -2830,7 +2932,8 @@
       "keywords": [
         "obsidian, theme"
       ],
-      "totalDownloads": 5856
+      "totalDownloads": 5856,
+      "saved": true
     },
     {
       "name": "dsgn.dracula-theme",
@@ -2861,7 +2964,8 @@
         "type": "git",
         "url": "git://github.com/NetOperatorWibby/DraculaBrackets.git"
       },
-      "totalDownloads": 5058
+      "totalDownloads": 5058,
+      "saved": true
     },
     {
       "name": "roberthchan.geekotheme",
@@ -2882,7 +2986,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3083
+      "totalDownloads": 3083,
+      "saved": true
     },
     {
       "title": "Sob Theme",
@@ -2906,7 +3011,8 @@
         "file": "sob.css",
         "dark": true
       },
-      "totalDownloads": 1864
+      "totalDownloads": 1864,
+      "saved": true
     },
     {
       "name": "flatlandish",
@@ -2930,7 +3036,8 @@
       "keywords": [
         "theme, flatland, flatlandish, flat, subtle, easy, eyes"
       ],
-      "totalDownloads": 5437
+      "totalDownloads": 5437,
+      "saved": true
     },
     {
       "title": "Tomorrow Night Eighties",
@@ -2955,7 +3062,8 @@
         "dark": true
       },
       "screenshot": "tomorrow-night-eighties-css.tiff",
-      "totalDownloads": 3881
+      "totalDownloads": 3881,
+      "saved": true
     },
     {
       "title": "Spacegray-Brackets",
@@ -2983,7 +3091,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 7516
+      "totalDownloads": 7516,
+      "saved": true
     },
     {
       "title": "Orchid Theme",
@@ -3008,7 +3117,8 @@
         "dark": true
       },
       "screenshot": "orchid-js.tiff",
-      "totalDownloads": 2294
+      "totalDownloads": 2294,
+      "saved": true
     },
     {
       "title": "JetBrains Darcula",
@@ -3033,7 +3143,8 @@
       "keywords": [
         "theme, darcula, webstorm, jetbrains, intellij"
       ],
-      "totalDownloads": 4459
+      "totalDownloads": 4459,
+      "saved": true
     },
     {
       "name": "warnney.darkcloud",
@@ -3053,7 +3164,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5072
+      "totalDownloads": 5072,
+      "saved": true
     },
     {
       "name": "mignonstyle.simple",
@@ -3084,7 +3196,8 @@
           "description": "Bracketsのための、白をベースとしたシンプルなライトカラーのテーマです。"
         }
       },
-      "totalDownloads": 3616
+      "totalDownloads": 3616,
+      "saved": true
     },
     {
       "name": "warnney.bluedream",
@@ -3104,7 +3217,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2636
+      "totalDownloads": 2636,
+      "saved": true
     },
     {
       "name": "resonant-light-theme",
@@ -3151,7 +3265,8 @@
         "dark",
         "color"
       ],
-      "totalDownloads": 3070
+      "totalDownloads": 3070,
+      "saved": true
     },
     {
       "name": "darksystemcd-brackets-theme",
@@ -3181,7 +3296,8 @@
         "wds",
         "wdhells"
       ],
-      "totalDownloads": 2500
+      "totalDownloads": 2500,
+      "saved": true
     },
     {
       "name": "warapitiya.unity",
@@ -3202,7 +3318,8 @@
         "email": "warapitiya93@gmail.com"
       },
       "license": "MIT",
-      "totalDownloads": 3271
+      "totalDownloads": 3271,
+      "saved": true
     },
     {
       "name": "flat-ui-theme",
@@ -3238,7 +3355,8 @@
         "extension",
         "fork"
       ],
-      "totalDownloads": 3746
+      "totalDownloads": 3746,
+      "saved": true
     },
     {
       "title": "RecognEyes",
@@ -3278,7 +3396,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2501
+      "totalDownloads": 2501,
+      "saved": true
     },
     {
       "title": "No Highlight",
@@ -3308,7 +3427,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.0.1",
-      "totalDownloads": 1309
+      "totalDownloads": 1309,
+      "saved": true
     },
     {
       "name": "x-mat.speed-material-dark-theme",
@@ -3335,7 +3455,8 @@
         "x",
         "material"
       ],
-      "totalDownloads": 3300
+      "totalDownloads": 3300,
+      "saved": true
     },
     {
       "name": "flat-attack-theme",
@@ -3356,7 +3477,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2159
+      "totalDownloads": 2159,
+      "saved": true
     },
     {
       "name": "flat-attack-dark-theme",
@@ -3389,7 +3511,8 @@
         "dark",
         "extension"
       ],
-      "totalDownloads": 9525
+      "totalDownloads": 9525,
+      "saved": true
     },
     {
       "title": "Stripper (Clean UI Redo)",
@@ -3417,7 +3540,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 3400
+      "totalDownloads": 3400,
+      "saved": true
     },
     {
       "title": "Birds Of Paradise",
@@ -3445,7 +3569,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1320
+      "totalDownloads": 1320,
+      "saved": true
     },
     {
       "name": "flat-attack-light-theme",
@@ -3478,7 +3603,8 @@
         "light",
         "extension"
       ],
-      "totalDownloads": 1950
+      "totalDownloads": 1950,
+      "saved": true
     },
     {
       "title": "truedesign Subtle Light",
@@ -3524,7 +3650,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1045
+      "totalDownloads": 1045,
+      "saved": true
     },
     {
       "title": "Ariane",
@@ -3560,7 +3687,8 @@
       "keywords": [
         "ariane, ariane theme, purple, purple theme, violet, violet theme, theme"
       ],
-      "totalDownloads": 2139
+      "totalDownloads": 2139,
+      "saved": true
     },
     {
       "name": "brackets-eclipse-theme",
@@ -3586,7 +3714,8 @@
         "brackets",
         "rjfun"
       ],
-      "totalDownloads": 2050
+      "totalDownloads": 2050,
+      "saved": true
     },
     {
       "title": "Flat Zeedijk",
@@ -3609,7 +3738,8 @@
         "file": "main.css",
         "dark": false
       },
-      "totalDownloads": 1239
+      "totalDownloads": 1239,
+      "saved": true
     },
     {
       "name": "brackets-pryme",
@@ -3638,7 +3768,8 @@
         "colourful",
         "fun"
       ],
-      "totalDownloads": 3398
+      "totalDownloads": 3398,
+      "saved": true
     },
     {
       "name": "warapitiya.neptune",
@@ -3662,7 +3793,8 @@
         "email": "warapitiya93@gmail.com"
       },
       "license": "MIT",
-      "totalDownloads": 1915
+      "totalDownloads": 1915,
+      "saved": true
     },
     {
       "name": "solarized-dark-theme",
@@ -3685,7 +3817,8 @@
         "Solarized",
         "Dark"
       ],
-      "totalDownloads": 3456
+      "totalDownloads": 3456,
+      "saved": true
     },
     {
       "title": "Pretty Light Theme (for Brackets)",
@@ -3711,7 +3844,8 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 1939
+      "totalDownloads": 1939,
+      "saved": true
     },
     {
       "title": "Theme / Spring Light",
@@ -3746,7 +3880,8 @@
         "brackets": ">=1.0.0"
       },
       "version": "0.8.2",
-      "totalDownloads": 3111
+      "totalDownloads": 3111,
+      "saved": true
     },
     {
       "name": "manse.mannari",
@@ -3782,7 +3917,8 @@
         "extension",
         "mannari"
       ],
-      "totalDownloads": 2202
+      "totalDownloads": 2202,
+      "saved": true
     },
     {
       "name": "maityarkodeb.sand",
@@ -3805,7 +3941,8 @@
         "dark",
         "sand"
       ],
-      "totalDownloads": 1423
+      "totalDownloads": 1423,
+      "saved": true
     },
     {
       "name": "maityarkodeb.neon-highway",
@@ -3829,7 +3966,8 @@
         "neon",
         "highway"
       ],
-      "totalDownloads": 2104
+      "totalDownloads": 2104,
+      "saved": true
     },
     {
       "name": "rolando_zabala_ii-first_custom_theme",
@@ -3873,7 +4011,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2082
+      "totalDownloads": 2082,
+      "saved": true
     },
     {
       "name": "com.mgenware.son-of-obsidian",
@@ -3921,7 +4060,8 @@
       "keywords": [
         "theme, dark, gedit"
       ],
-      "totalDownloads": 877
+      "totalDownloads": 877,
+      "saved": true
     },
     {
       "title": "PH easy dark",
@@ -3943,7 +4083,8 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1659
+      "totalDownloads": 1659,
+      "saved": true
     },
     {
       "name": "dark-deluxe-theme",
@@ -3974,7 +4115,8 @@
         "highlighting",
         "syntax"
       ],
-      "totalDownloads": 7376
+      "totalDownloads": 7376,
+      "saved": true
     },
     {
       "name": "lzia.lunies",
@@ -3998,7 +4140,8 @@
         "dark theme",
         "flat"
       ],
-      "totalDownloads": 1362
+      "totalDownloads": 1362,
+      "saved": true
     },
     {
       "title": "Monokromatik-green",
@@ -4022,7 +4165,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 944
+      "totalDownloads": 944,
+      "saved": true
     },
     {
       "title": "Monokromatik-blue",
@@ -4046,7 +4190,8 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 1160
+      "totalDownloads": 1160,
+      "saved": true
     },
     {
       "name": "kornelceglarek.bluee",
@@ -4094,7 +4239,8 @@
         "calm",
         "cool"
       ],
-      "totalDownloads": 1697
+      "totalDownloads": 1697,
+      "saved": true
     },
     {
       "name": "explicit-brackets-style",
@@ -4110,7 +4256,8 @@
         "file": "theme.less",
         "dark": true
       },
-      "totalDownloads": 1686
+      "totalDownloads": 1686,
+      "saved": true
     },
     {
       "name": "stephen.epic-night",
@@ -4183,7 +4330,8 @@
         "blue",
         "theme"
       ],
-      "totalDownloads": 877
+      "totalDownloads": 877,
+      "saved": true
     },
     {
       "name": "brackets-theme-darktooth",
@@ -4234,7 +4382,8 @@
         "morning",
         "dark"
       ],
-      "totalDownloads": 1715
+      "totalDownloads": 1715,
+      "saved": true
     },
     {
       "title": "Guacamayo",
@@ -4254,7 +4403,8 @@
         "dark": true,
         "addModeClass": true
       },
-      "totalDownloads": 1471
+      "totalDownloads": 1471,
+      "saved": true
     },
     {
       "title": "One Dark Theme",
@@ -4278,7 +4428,8 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4275
+      "totalDownloads": 4275,
+      "saved": true
     },
     {
       "name": "neats29.deep-blue",
@@ -4328,7 +4479,8 @@
         "epic",
         "green"
       ],
-      "totalDownloads": 1821
+      "totalDownloads": 1821,
+      "saved": true
     },
     {
       "name": "fthiagogv.naturegreen-dark-syntax",
@@ -4378,7 +4530,8 @@
         "calm",
         "cool"
       ],
-      "totalDownloads": 1102
+      "totalDownloads": 1102,
+      "saved": true
     },
     {
       "name": "os-x-style-dark-theme",
@@ -4479,7 +4632,8 @@
         "file": "ceratrior2.css",
         "dark": true
       },
-      "totalDownloads": 641
+      "totalDownloads": 641,
+      "saved": true
     },
     {
       "name": "raven",

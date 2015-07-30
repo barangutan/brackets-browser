@@ -1,15 +1,84 @@
+
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>{{ title }}</title>
-    <link rel='stylesheet' href='/stylesheets/style.css' />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brackets - Theme Viewer</title>
+
+  <!-- ========== Css Files ========== -->
+  <link href="/styles/root.css" rel="stylesheet">
   </head>
   <body>
-    <h1>{{ title }}</h1>
-    <ul>
-    {{#top}}
-        <li><a href="{{homepage}}" target="_blank">{{title}}</a> ({{totalDownloads}})</li>
-    {{/top}}
-    </ul>
-  </body>
+      
+ <div id="top">
+ 	<h1>Brackets<small>Theme Viewer</small></h1>
+
+ </div>	
+{{> sidebar}}
+ 
+ <div class="content col-md-10">
+ 	<h3>Unofficial theme viewer</h3>
+ 	 <p class="bigtext">Thanks for Purchasing Kode. Kode is a admin template based on Boostrap.Builded with CSS, jQuery and Less.</p>
+     
+    <div class="checkbox">
+    <input type="checkbox" id="checkbox1">
+    <label for="checkbox1">
+        Check me out
+    </label>
+  </div>
+ 	 	
+     <img class="pull-left" src="/images/brackets_icon.png"/>
+     <h3 class="pull-left">Unofficial theme browser</h3>
+    
+     <div class="clearfix"></div>
+		
+		 <div class="panel-body">
+              
+                <div role="tabpanel">
+
+                  <!-- Nav tabs -->
+                  <ul class="nav nav-tabs nav-line" role="tablist">
+                    <li role="presentation" class="active"><a href="#home5" aria-controls="home5" role="tab" data-toggle="tab">Home</a></li>
+                    <li role="presentation"><a href="#profile5" aria-controls="profile5" role="tab" data-toggle="tab">Profile</a></li>
+                    <li role="presentation"><a href="#messages5" aria-controls="messages5" role="tab" data-toggle="tab">Messages</a></li>
+                  </ul>
+
+                  <!-- Tab panes -->
+                  <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane active" id="home5">
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                    </div>
+                    <div role="tabpanel" class="tab-pane" id="profile5">
+                      <p>Ut in leo ut libero sodales feugiat</p>
+                    </div>
+                    <div role="tabpanel" class="tab-pane" id="messages5">
+                      <p>Duis ac enim diam</p>
+                    </div>
+                  </div>
+
+                </div>              
+
+            </div>
+		
+		
+ 	
+	
+	
+	<div class="post" id="bootstrap">
+		<h4>Based on Boostrap</h4>
+		Kode using Bootstrap. Bootstrap is most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.<br>
+		<b>Learn more about bootstrap</b><br>
+		<a href="http://getbootstrap.com/">http://getbootstrap.com</a>
+	</div>
+	
+
+ 	
+ 	
+ 	
+ </div>
+	
+</body>
 </html>
