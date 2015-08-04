@@ -27,7 +27,7 @@ db.forEach(function(theme, index) {
             }).on('error', function(err) {
                 console.log('ERrror: ' + err);
 
-            }).pipe(fs.createWriteStream(__dirname + '/public/stylesheets/assets/' + theme.name + '.' + theme.version + '.less'));
+            }).pipe(fs.createWriteStream(__dirname + '/public/styles/assets/' + theme.name + '.' + theme.version + '.less'));
 
         }
 
