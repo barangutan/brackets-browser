@@ -23,6 +23,14 @@
  	<h3>Unofficial theme viewer</h3>
  	 <p class="bigtext">Thanks for Purchasing Kode. Kode is a admin template based on Boostrap.Builded with CSS, jQuery and Less.</p>
      
+     
+     <div class="input-group">
+  <input type="text" class="form-control" placeholder="Recipient's username" aria-describedby="basic-addon2">
+  <span class="input-group-addon" id="basic-addon2">@example.com</span>
+</div>
+     
+     
+     
     <div class="checkbox">
     <input type="checkbox" id="checkbox1">
     <label for="checkbox1">

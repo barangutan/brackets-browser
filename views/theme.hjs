@@ -15,8 +15,6 @@
 
 </head>
 <body>
-    <a href="#top" class="gotop">&uarr; Top</a>
-    
     <div id="top">
         <h1><a href="/">Brackets</a><small>Theme Viewer</small></h1>
         <ul class="top-menu">
@@ -29,17 +27,22 @@
  
  <div class="content col-md-10">
      
- 	<h3>{{theme.title}}</h3>
-     
- 	<p class="bigtext">
-       <i class="fa fa-github"></i> {{theme.description}}
-    </p>
- 	 	
-    <p>
-        {{theme.totalDownloads}} downloads / 
-        <a href="{{theme.homepage}}" target="_blank">homepage</a> /
-        {{theme.author.name}}
-    </p>
+     <div class="page-header" style="margin:0;">
+      <h1 class="title">{{theme.title}}</h1>
+        <ol class="breadcrumb">
+            <li class="active">by {{theme.author.name}}</li>
+            <li><i class="fa fa-github"></i> <a href="{{theme.homepage}}" target="_blank">GitHub</a></li>
+        </ol>
+
+      <!-- Start Page Header Right Div -->
+      <div class="right">
+          <ul class="widget-inline-list clearfix pull-right">
+            <li class="col-12"><span>{{theme.totalDownloads}}</span>Downloads</li>
+          </ul>
+      </div>
+      <!-- End Page Header Right Div -->
+
+    </div>
 		
 <p>
       
