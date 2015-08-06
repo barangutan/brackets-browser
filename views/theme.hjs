@@ -7,27 +7,31 @@
     <title>Brackets - Theme Viewer</title>
 
     <link href="/styles/root.css" rel="stylesheet">
-    <link rel='stylesheet' href='/styles/assets/{{ stylesheet }}.css' />
+    <link rel="stylesheet" href="/styles/assets/{{ stylesheet }}.css" />
+    <link rel="stylesheet" href="/styles/plugin/perfect-scrollbar/perfect-scrollbar.min.css" />
 
     <link rel='stylesheet' href='/styles/codemirror.css' />
     <script src="/js/codemirror.js"></script>
     <script src="/js/mode/javascript/javascript.js"></script>      
 
 </head>
-<body>
+<body class="container">
     <div id="top">
         <h1><a href="/">Brackets</a><small>Theme Viewer</small></h1>
         <ul class="top-menu">
             <li>Thank you for purchasing kode</li>
             <li><a href="/theme/{{name}}" target="_blank">{{title}}</a></li>
         </ul>
-    </div>	
- 
+    </div>	    
+    
+  <div class="col-md-2">
     {{> sidebar}}
+</div>
+
  
  <div class="content col-md-10">
      
-     <div class="page-header" style="margin:0;">
+     <div class="page-header" style="margin:0;background-color:#FAFAFA">
       <h1 class="title">{{theme.title}}</h1>
         <ol class="breadcrumb">
             <li class="active">by {{theme.author.name}}</li>
@@ -43,6 +47,19 @@
       <!-- End Page Header Right Div -->
 
     </div>
+     <div class="panel-body">
+              
+                <div role="tabpanel">
+
+                  <!-- Nav tabs -->
+                  <ul class="pull-right nav nav-line" role="tablist">
+                    <li role="presentation" class="active"><a href="#home5" aria-controls="home5" role="tab" data-toggle="tab">JavaScript</a></li>
+                    <li role="presentation"><a href="#profile5" aria-controls="profile5" role="tab" data-toggle="tab">CSS</a></li>
+                    <li role="presentation"><a href="#messages5" aria-controls="messages5" role="tab" data-toggle="tab">HTML</a></li>
+                  </ul>
+                </div>              
+
+            </div>
 		
 <p>
       
@@ -71,9 +88,6 @@ function lovelyFunction (one, two, function(err, data) {
     });
 
 </script>
-    
-		
- 	
 	
 	
 	<div class="post" id="bootstrap">
@@ -82,18 +96,27 @@ function lovelyFunction (one, two, function(err, data) {
 		<b>Learn more about bootstrap</b><br>
 		<a href="http://getbootstrap.com/">http://getbootstrap.com</a>
 	</div>
-	
-
- 	
- 	<style>
      
-.democode {
-    font-size: 10px !important;
-    border: 2px solid Red !important;
-}
-     </style>
  	
  </div>
 	
+    
+<!-- ================================================
+jQuery Library
+================================================ -->
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+      
+<!-- ================================================
+Bootstrap Core JavaScript File
+================================================ -->
+<script src="/js/bootstrap/bootstrap.min.js"></script>
+      
+<!-- ================================================
+Plugin.js - Some Specific JS codes for Plugin Settings
+================================================ -->
+<script type="text/javascript" src="/js/plugins.js"></script>
+    
+    
+    
 </body>
 </html>

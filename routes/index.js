@@ -8,6 +8,7 @@ router.get('/', function(req, res, next) {
                 .chain()
                 .where({saved: true})
                 .sortByOrder('totalDownloads', 'desc')
+                .take(10)
                 .value();
 
     res.render('index', { themes: themes, partials: {sidebar: 'sidebar'}});
@@ -31,6 +32,7 @@ router.get('/theme/:name', function(req, res, next) {
                 .chain()
                 .where({saved: true})
                 .sortByOrder('totalDownloads', 'desc')
+                .take(10)
                 .value();
  
     var theme = db.chain().where({name: req.params.name}).first().value();

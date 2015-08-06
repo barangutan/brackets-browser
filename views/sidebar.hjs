@@ -1,4 +1,5 @@
-<ul class="sidebar col-md-2">
+
+<ul class="sidebar">
     <li class="title">Themes</li>
     {{#themes}}
     <li><a href="/theme/{{name}}">{{title}}</a></li>

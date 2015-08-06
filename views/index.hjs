@@ -9,18 +9,32 @@
   <title>Brackets - Theme Viewer</title>
 
   <!-- ========== Css Files ========== -->
-  <link href="/styles/root.css" rel="stylesheet">
+    <link href="/styles/root.css" rel="stylesheet">
+    
+      
+    <link rel='stylesheet' href='/styles/codemirror.css' />
+    <link href="/js/theme/dune.css" rel="stylesheet">
+    <link href="/js/theme/808.css" rel="stylesheet">
+      
+    <script src="/js/codemirror.js"></script>
+    
+    <script src="/js/mode/javascript/javascript.js"></script>     
   </head>
-  <body>
+  <body class="container">
       
  <div id="top">
  	<h1>Brackets<small>Theme Viewer</small></h1>
+ </div>
+      
+<div class="col-md-2">
+    {{> sidebar}}
+</div>
 
- </div>	
-{{> sidebar}}
  
  <div class="content col-md-10">
- 	<h3>Unofficial theme viewer</h3>
+     
+     
+ 	<h3>Newest Themes</h3>
  	 <p class="bigtext">Thanks for Purchasing Kode. Kode is a admin template based on Boostrap.Builded with CSS, jQuery and Less.</p>
      
      
@@ -38,10 +52,6 @@
     </label>
   </div>
  	 	
-     <img class="pull-left" src="/images/brackets_icon.png"/>
-     <h3 class="pull-left">Unofficial theme browser</h3>
-    
-     <div class="clearfix"></div>
 		
 		 <div class="panel-body">
               
@@ -92,7 +102,7 @@
 jQuery Library
 ================================================ -->
 <script type="text/javascript" src="/js/jquery.min.js"></script>
-
+      
 <!-- ================================================
 Bootstrap Core JavaScript File
 ================================================ -->
