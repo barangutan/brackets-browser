@@ -1,4 +1,6 @@
 var db = require('./lib/db.js');
+var db_raw = require('lowdb')('themes_raw.json');
+
 
 var xtend = require('xtend');
 var request = require('request');
@@ -54,7 +56,13 @@ Object.keys(input).forEach(function(key) {
     if(val.metadata && val.metadata.theme) {
         
         console.log('%d - %s', ++n, key);
-        db('themes').push(xtend(val.metadata, {totalDownloads: val.totalDownloads}));
+        db_raw('themes').push(xtend(val.metadata, 
+            {
+                totalDownloads: val.totalDownloads, 
+                owner: val.owner, versions,
+                versions: val.versions.length
+            }
+        ));
     }
 });
 

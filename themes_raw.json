@@ -1,0 +1,5099 @@
+{
+  "themes": [
+    {
+      "title": "808",
+      "name": "808",
+      "description": "808 Theme for Brackets. Inspired by Roland TR-808. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/808",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/808.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "808.css",
+        "dark": true
+      },
+      "totalDownloads": 4141,
+      "owner": "github:larz0",
+      "versions": 4
+    },
+    {
+      "title": "Zamiere Dark",
+      "name": "zamiere-dark",
+      "description": "Zamiere dark theme for Brackets",
+      "version": "0.0.3",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "mahchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Zamiere",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/Zamiere.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 7487,
+      "owner": "github:MiguelCastillo",
+      "versions": 2
+    },
+    {
+      "title": "Visual Studio Theme",
+      "name": "visual-studio-theme",
+      "description": "Visual Studio Theme for Brackets",
+      "version": "0.0.1",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "mahchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/VisualStudio",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/VisualStudio.git"
+      },
+      "engines": {
+        "brackets": ">=0.38.0"
+      },
+      "theme": "visual-studio.css",
+      "screenshot": "screenshot.png",
+      "totalDownloads": 9435,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
+    },
+    {
+      "title": "Earth",
+      "name": "earth",
+      "description": "The Earth Dark Theme for Brackets!",
+      "version": "0.2.5",
+      "author": {
+        "name": "Denisov21"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Earth",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Earth.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "theme": {
+        "file": "earth.css",
+        "dark": true
+      },
+      "screenshot": "JS.png",
+      "totalDownloads": 16848,
+      "owner": "github:Denisov21",
+      "versions": 12
+    },
+    {
+      "title": "Railcasts",
+      "name": "railcasts-theme",
+      "description": "Railcasts Theme for Brackets.",
+      "version": "1.0.6",
+      "author": {
+        "name": "Andrew MacKenzie",
+        "email": "a.mackenzie@gmail.com",
+        "url": "http://github.com/mackenza"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Railcasts",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Railcasts.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "railcasts.css",
+        "dark": true
+      },
+      "screenshot": "railcasts_php.png",
+      "totalDownloads": 5123,
+      "owner": "github:mackenza",
+      "versions": 7
+    },
+    {
+      "title": "Ruby Blue",
+      "name": "ruby-blue",
+      "description": "Ruby Blue is a dark, high contrast theme, that is easy to read.",
+      "version": "1.3.1",
+      "author": {
+        "name": "Eric Johnson",
+        "email": "wormeyman@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/RubyBlue",
+      "keywords": [
+        "extension",
+        "brackets",
+        "ruby",
+        "blue",
+        "dark",
+        "theme"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Brackets-Themes/RubyBlue.git"
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "RubyBlueTheme.less",
+        "dark": true
+      },
+      "screenshot": "ss/rb-js.PNG",
+      "totalDownloads": 15743,
+      "owner": "github:wormeyman",
+      "versions": 14
+    },
+    {
+      "title": "Envy",
+      "name": "envy-theme",
+      "description": "Envy Theme for Brackets - it's kind of greenish... so envy... you see what I did there?",
+      "version": "1.0.5",
+      "author": {
+        "name": "Andrew MacKenzie",
+        "email": "a.mackenzie@gmail.com",
+        "url": "http://github.com/mackenza"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Envy",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Envy.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "envy.css",
+        "dark": true
+      },
+      "screenshot": "envy-screenshot-js.png",
+      "totalDownloads": 3444,
+      "owner": "github:mackenza",
+      "versions": 6
+    },
+    {
+      "title": "Monokai",
+      "name": "monokai-theme",
+      "description": "This dark theme is based on the monokai color scheme from Sublime Text.",
+      "version": "1.0.8",
+      "author": {
+        "name": "Steffen Bruchmann",
+        "email": "hi@sbruchmann.me",
+        "url": "http://sbruchmann.me/"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Monokai",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Theme/Monokai.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 39630,
+      "owner": "github:sbruchmann",
+      "versions": 10
+    },
+    {
+      "title": "Enlightend",
+      "name": "enlightend-theme",
+      "description": "Enlightend Theme for Brackets",
+      "version": "0.2.0",
+      "author": {
+        "name": "Amin Ullah Khan",
+        "email": "aminullah@outlook.com",
+        "url": "https://github.com/sprintr"
+      },
+      "homepage": "https://github.com/sprintr/brackets-enlightend-theme",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:sprintr/brackets-enlightend-theme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 2415,
+      "owner": "github:sprintr",
+      "versions": 2
+    },
+    {
+      "title": "Tomorrow Night",
+      "name": "tomorrow-night",
+      "description": "Tomorrow Night theme for Brackets",
+      "version": "1.0.2",
+      "author": {
+        "name": "Ryan Stewart",
+        "email": "rstewart@adobe.com",
+        "url": "http://github.com/ryanstewart"
+      },
+      "homepage": "https://github.com/Brackets-Themes/TomorrowNight",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TomorrowNight.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "tomorrow-night.css",
+        "dark": true
+      },
+      "screenshot": "tomorrow-night-screenshot-css.png",
+      "totalDownloads": 7290,
+      "owner": "github:ryanstewart",
+      "versions": 2
+    },
+    {
+      "title": "80's Baby",
+      "name": "80s-baby",
+      "description": "80's Baby Theme for Brackets. Inspired by Silkie's 80's Baby. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/80sBaby",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/80sBaby.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "80sbaby.css",
+        "dark": true
+      },
+      "totalDownloads": 5954,
+      "owner": "github:larz0",
+      "versions": 8
+    },
+    {
+      "title": "Visual Studio",
+      "name": "visual-studio",
+      "description": "Visual Studio Theme for Brackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "mahchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/VisualStudio",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/VisualStudio.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less"
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 7461,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
+    },
+    {
+      "title": "Solarized",
+      "name": "solarized",
+      "description": "Solarized Theme for Brackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "manchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Solarized",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/Solarized.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less"
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 4853,
+      "owner": "github:MiguelCastillo",
+      "versions": 2
+    },
+    {
+      "title": "The Hamptons",
+      "name": "the-hamptons",
+      "description": "The Hamptons Theme for Brackets. Inspired by coconuts, this theme helps you relax. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/TheHamptons",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TheHamptons.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "thehamptons.css",
+        "dark": false
+      },
+      "totalDownloads": 3291,
+      "owner": "github:larz0",
+      "versions": 5
+    },
+    {
+      "title": "Easy Dark",
+      "name": "easy-dark",
+      "description": "Dark theme that's just easy on your eyes",
+      "version": "2.0.4",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "mahchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/EasyDark",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/EasyDark.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 9412,
+      "owner": "github:MiguelCastillo",
+      "versions": 7
+    },
+    {
+      "name": "brackets-mystique-theme",
+      "version": "0.1.8",
+      "title": "Mystique",
+      "description": "A soft, dark theme that makes code look good.",
+      "homepage": "https://bitbucket.org/morrisallison/brackets-mystique-theme",
+      "author": {
+        "name": "Morris Allison III",
+        "email": "author@morrisallison.com",
+        "url": "https://bitbucket.org/morrisallison"
+      },
+      "license": "MIT",
+      "screenshot": "screenshots/js.png",
+      "engines": {
+        "brackets": ">=1.2.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "keywords": [
+        "mystique",
+        "theme",
+        "code",
+        "highlighting",
+        "dark"
+      ],
+      "categories": [
+        "visual"
+      ],
+      "totalDownloads": 16666,
+      "owner": "github:morrisallison",
+      "versions": 9
+    },
+    {
+      "title": "Skullomania",
+      "name": "skullomania",
+      "description": "Skullomania Theme for Brackets. This theme helps you see the skeleton. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Skullomania",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Skullomania.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "skullomania.css",
+        "dark": true
+      },
+      "totalDownloads": 3814,
+      "owner": "github:larz0",
+      "versions": 4
+    },
+    {
+      "title": "Monokai Dark Soda",
+      "name": "rain.monokai-dark-soda",
+      "description": "Dark theme based on Dark Soda and Monokai color schemes.",
+      "version": "1.0.8",
+      "author": {
+        "name": "rain",
+        "url": "https://github.com/rainje"
+      },
+      "homepage": "https://github.com/rainje/Monokai-Dark-Soda",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/rainje/Monokai-Dark-Soda.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "theme": {
+        "file": "main.css",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "monokai",
+        "dark",
+        "soda",
+        "sublime",
+        "text",
+        "fork",
+        "extension",
+        "css"
+      ],
+      "totalDownloads": 59282,
+      "owner": "github:rainje",
+      "versions": 8
+    },
+    {
+      "name": "zenburn-theme",
+      "title": "Zenburn Theme",
+      "description": "zenburn theme for brackets Dark low contrast color themes originally designed for Vim",
+      "homepage": "https://github.com/chechnyan/Zenburn",
+      "version": "1.0.4",
+      "author": {
+        "name": "jafar ali alshishani <chechnyan@inbox.com> "
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "Zenburn.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 7295,
+      "owner": "github:chechnyan",
+      "versions": 5
+    },
+    {
+      "name": "solarized-light-theme",
+      "title": "Solarized-light-Theme",
+      "description": "beautiful selected low contrast color theme for brackets designed by Ethan Schoonover.",
+      "homepage": "https://github.com/chechnyan/Zenburn",
+      "version": "1.0.3",
+      "author": {
+        "name": "jafar ali alshishani <chechnyan@inbox.com> "
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "solarized-light.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 3668,
+      "owner": "github:chechnyan",
+      "versions": 2
+    },
+    {
+      "title": "LightSoda",
+      "name": "light_soda_theme",
+      "description": "The LightSoda light theme for Brackets!",
+      "version": "0.1.5",
+      "author": {
+        "name": "Denisov21"
+      },
+      "homepage": "https://github.com/Brackets-Themes/LightSoda",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/LightSoda.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "theme": {
+        "file": "light-soda.css"
+      },
+      "screenshot": "CSS.png",
+      "totalDownloads": 9782,
+      "owner": "github:Denisov21",
+      "versions": 6
+    },
+    {
+      "title": "Star Platinum Dark",
+      "name": "star-platinum-dark",
+      "description": "Star Platinum Dark Theme for Brackets. Inspired by the Stand of Jotaro Kujo; ORAORAORA. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/StarPlatinumDark",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/StarPlatinumDark.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "starplatinumdark.css",
+        "dark": true
+      },
+      "totalDownloads": 4323,
+      "owner": "github:larz0",
+      "versions": 4
+    },
+    {
+      "title": "Star Platinum Light",
+      "name": "star-platinum-light",
+      "description": "Star Platinum Light Theme for Brackets. Inspired by the Stand of Jotaro Kujo; ORAORAORA. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/StarPlatinumLight",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/StarPlatinumLight.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "starplatinumlight.css",
+        "dark": false
+      },
+      "totalDownloads": 3638,
+      "owner": "github:larz0",
+      "versions": 5
+    },
+    {
+      "title": "Delkos Dark Theme",
+      "name": "delkos",
+      "description": "A dark, elegant, easy readable theme.",
+      "version": "0.0.3",
+      "author": {
+        "name": "David Sánchez i Gregori"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/David5i6/Brackets-Delkos-Dark-Theme",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/David5i6/Brackets-Delkos-Dark-Theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "delkos.css",
+        "dark": true
+      },
+      "totalDownloads": 5936,
+      "owner": "github:David5i6",
+      "versions": 2
+    },
+    {
+      "title": "Material Dark",
+      "name": "ivanbarcia.material-dark",
+      "description": "A dark theme based on colors of Material Design.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Iván Barcia",
+        "url": "https://github.com/ivarcia"
+      },
+      "homepage": "https://github.com/ivarcia/brackets_themes",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ivarcia/brackets_themes.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 6705,
+      "owner": "github:ivarcia",
+      "versions": 1
+    },
+    {
+      "title": "Material Light",
+      "name": "ivanbarcia.material-light",
+      "description": "A light theme based on colors of Material Design.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Iván Barcia",
+        "url": "https://github.com/ivarcia"
+      },
+      "homepage": "https://github.com/ivarcia/brackets_themes",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ivarcia/brackets_themes.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 4475,
+      "owner": "github:ivarcia",
+      "versions": 1
+    },
+    {
+      "name": "ant7.ant-theme",
+      "title": "Ant Theme",
+      "description": "Dark color theme meant to be easy on the eyes",
+      "homepage": "https://github.com/ant7/ant-brackets-theme",
+      "version": "1.0.6",
+      "author": {
+        "name": "Antonia Ciocodeica",
+        "email": "ant@studio78.ro"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ant7/ant-brackets-theme.git"
+      },
+      "theme": {
+        "file": "ant.css",
+        "dark": true
+      },
+      "keywords": [
+        "dark",
+        "theme"
+      ],
+      "totalDownloads": 12143,
+      "owner": "github:ant7",
+      "versions": 7
+    },
+    {
+      "title": "Dieter Bamz",
+      "name": "dieter-bamz",
+      "description": "Dieter Bamz Theme for Brackets. Inspired by Dieter Rams's Snow White's Coffin. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/DieterBamz",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/DieterBamz.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "dieterbamz.css",
+        "dark": false
+      },
+      "totalDownloads": 2624,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Photon Racer",
+      "name": "photon-racer",
+      "description": "Photon Racer Theme for Brackets. Colors picked for speed. A Brackets original.",
+      "version": "1.0.4",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/PhotonRacer",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/PhotonRacer.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "photonracer.css",
+        "dark": true
+      },
+      "totalDownloads": 3562,
+      "owner": "github:larz0",
+      "versions": 5
+    },
+    {
+      "title": "MBO Theme",
+      "name": "mbo",
+      "description": "MBO Theme taken from https://github.com/Jacse/themes-for-brackets, based of of the MBO theme by mbonaci on github, and modified for brackets built in theme Support.",
+      "version": "1.3.3",
+      "author": {
+        "name": "Aron Brown",
+        "email": "webmaster@birdwingfx.com"
+      },
+      "homepage": "https://github.com/birdwing/Brackets-MBO-Theme",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/birdwing/Brackets-MBO-Theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 4897,
+      "owner": "github:birdwing",
+      "versions": 7
+    },
+    {
+      "title": "DarkSoda",
+      "name": "dark_soda_theme",
+      "description": "The DarkSoda is a Theme for Brackets!",
+      "version": "0.1.6",
+      "author": {
+        "name": "Denisov21"
+      },
+      "homepage": "https://github.com/Brackets-Themes/DarkSoda",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/DarkSoda.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "theme": {
+        "file": "dark-soda.css",
+        "dark": true
+      },
+      "totalDownloads": 27174,
+      "owner": "github:Denisov21",
+      "versions": 9
+    },
+    {
+      "title": "Thunderstorm",
+      "name": "thunderstorm",
+      "description": "Thunderstorm - A dark theme for Brackets",
+      "version": "1.1.0",
+      "author": {
+        "name": "Arissa Brown",
+        "url": "https://github.com/recked/"
+      },
+      "homepage": "https://github.com/recked/thunderstorm",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/recked/thunderstorm.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "totalDownloads": 3281,
+      "owner": "github:recked",
+      "versions": 2
+    },
+    {
+      "title": "Son of Hammsidian",
+      "name": "son-of-hammsidian-theme",
+      "description": "A variation of John Hamm's Hammsidian dark theme.",
+      "version": "1.1.0",
+      "author": {
+        "name": "George Raptis",
+        "email": "georapbox@gmail.com",
+        "url": "https://github.com/georapbox"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/georapbox/son-of-hammsidian-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/georapbox/son-of-hammsidian-theme"
+      },
+      "keywords": [
+        "themes",
+        "hammsidian"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "son_of_hammsidian.css",
+        "dark": true
+      },
+      "totalDownloads": 2517,
+      "owner": "github:georapbox",
+      "versions": 2
+    },
+    {
+      "title": "Twilight",
+      "name": "twilight",
+      "description": "Twilight theme from CodeMirror",
+      "version": "0.0.1",
+      "author": {
+        "name": "Miguel Castillo",
+        "email": "manchagnu@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Twilight",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/Twilight.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 3890,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
+    },
+    {
+      "title": "Quick Dark",
+      "name": "quick-dark",
+      "description": "A dark theme (based on Easy Dark) that makes your code pretty and readable.",
+      "keywords": [
+        "dark",
+        "theme",
+        "quick"
+      ],
+      "homepage": "https://github.com/cheesypoof/QuickDark",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cheesypoof/QuickDark.git"
+      },
+      "bugs": {
+        "url": "https://github.com/cheesypoof/QuickDark/issues"
+      },
+      "author": {
+        "name": "cheesypoof",
+        "url": "https://github.com/cheesypoof"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "1.1.6",
+      "totalDownloads": 32067,
+      "owner": "github:cheesypoof",
+      "versions": 18
+    },
+    {
+      "name": "circlewaves.darcula-theme",
+      "title": "Darcula",
+      "description": "Classic Darcula theme",
+      "homepage": "https://github.com/circlewaves/brackets-darcula-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Max Kostinevich",
+        "email": "info@circlewaves.com",
+        "url": "http://circlewaves.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "darcula.css",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "keywords": [
+        "dark"
+      ],
+      "totalDownloads": 3975,
+      "owner": "github:circlewaves",
+      "versions": 1
+    },
+    {
+      "title": "Guardians",
+      "name": "guardians",
+      "description": "Guardians Theme for Brackets. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Guardians",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Guardians.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "guardians.css",
+        "dark": true
+      },
+      "totalDownloads": 2713,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Quick Light",
+      "name": "quick-light",
+      "description": "A light theme that makes your code pretty and readable.",
+      "keywords": [
+        "light",
+        "theme",
+        "quick"
+      ],
+      "homepage": "https://github.com/cheesypoof/QuickLight",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cheesypoof/QuickLight.git"
+      },
+      "bugs": {
+        "url": "https://github.com/cheesypoof/QuickLight/issues"
+      },
+      "author": {
+        "name": "cheesypoof",
+        "url": "https://github.com/cheesypoof"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "1.1.6",
+      "totalDownloads": 18529,
+      "owner": "github:cheesypoof",
+      "versions": 16
+    },
+    {
+      "name": "soft-dark",
+      "title": "Soft Dark",
+      "description": "A Bracket's dark theme to ease your eyes.",
+      "homepage": "https://github.com/ruiafonsopereira/Soft-Dark",
+      "version": "0.2.0",
+      "author": {
+        "name": "Rui Afonso Pereira",
+        "email": "ruiafonsopereira@gmail.com"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "soft",
+        "soft-dark"
+      ],
+      "totalDownloads": 4945,
+      "owner": "github:ruiafonsopereira",
+      "versions": 4
+    },
+    {
+      "title": "The Weaver",
+      "name": "the-weaver",
+      "description": "The Weaver Theme for Brackets. 'Nature uses only the longest threads to weave her patterns, so that each small piece of her fabric reveals the organization of the entire tapestry.' —Richard Feynman. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/TheWeaver",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/TheWeaver.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theweaver.css",
+        "dark": true
+      },
+      "totalDownloads": 2197,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Care Bear Stare",
+      "name": "care-bear-stare",
+      "description": "Care Bear Stare Theme for Brackets. A theme for kids that code; ages 0–9. A Brackets original.",
+      "version": "1.0.2",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/CareBearStare",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/CareBearStare.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "carebearstare.css",
+        "dark": false
+      },
+      "totalDownloads": 2543,
+      "owner": "github:larz0",
+      "versions": 3
+    },
+    {
+      "title": "Care Bear Stare Dark",
+      "name": "care-bear-stare-dark",
+      "description": "Care Bear Stare Dark Theme for Brackets. For kids that aren't afraid to code in the dark; ages 10–170. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/CareBearStareDark",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/CareBearStareDark.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "carebearstaredark.css",
+        "dark": true
+      },
+      "totalDownloads": 2536,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Dune",
+      "name": "dune",
+      "description": "Dune Theme for Brackets. Light and minimal. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Dune",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Dune.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "dune.css",
+        "dark": false
+      },
+      "totalDownloads": 4189,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Energy",
+      "name": "energy",
+      "description": "Energy Theme for Brackets. Dark and minimal, inspired by that stuff they drink in Tron. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Energy",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Energy.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "energy.css",
+        "dark": true
+      },
+      "totalDownloads": 3718,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Coolwater",
+      "name": "coolwater",
+      "description": "Coolwater Theme for Brackets. Light and minimal. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Coolwater",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Coolwater.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "coolwater.css",
+        "dark": false
+      },
+      "totalDownloads": 4527,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Atom Dark Theme",
+      "name": "insya.atom.dark",
+      "description": "GitHub Atom editor default dark theme",
+      "version": "1.0.4",
+      "author": {
+        "name": "Yasin Kuyu",
+        "email": "yasinkuyu@gmail.com"
+      },
+      "homepage": "https://github.com/yasinkuyu/brackets-atom-dark",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/yasinkuyu/brackets-atom-dark.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 12484,
+      "owner": "github:yasinkuyu",
+      "versions": 3
+    },
+    {
+      "title": "Atom Light Theme",
+      "name": "insya.atom.light",
+      "description": "GitHub Atom editor default light theme",
+      "version": "1.0.5",
+      "author": {
+        "name": "Yasin Kuyu",
+        "email": "yasinkuyu@gmail.com"
+      },
+      "homepage": "https://github.com/yasinkuyu/brackets-atom-light",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/yasinkuyu/brackets-atom-light.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less"
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 7105,
+      "owner": "github:yasinkuyu",
+      "versions": 3
+    },
+    {
+      "title": "Snagglepanther",
+      "name": "snagglepanther",
+      "description": "Snagglepanther Theme for Brackets. Pink and minimal. A Brackets original.",
+      "version": "1.0.1",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Snagglepanther",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Snagglepanther.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "snagglepanther.css",
+        "dark": false
+      },
+      "totalDownloads": 1898,
+      "owner": "github:larz0",
+      "versions": 2
+    },
+    {
+      "title": "Lion",
+      "name": "lion",
+      "description": "Lion Theme for Brackets. Dark and minimal. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Lion",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Lion.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "lion.css",
+        "dark": true
+      },
+      "totalDownloads": 8066,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Northstar",
+      "name": "northstar",
+      "description": "Northstar Theme for Brackets. Dark and minimal. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Northstar",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Northstar.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "northstar.css",
+        "dark": true
+      },
+      "totalDownloads": 2462,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "name": "nico.slickrock",
+      "title": "Slickrock",
+      "description": "Dark, flat, minimal theme. Meant to sit flat with the Brackets UI.",
+      "homepage": "https://github.com/NicoM1/Slickrock",
+      "version": "0.0.1",
+      "author": {
+        "name": "Nico May nico.may99@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "flat"
+      ],
+      "totalDownloads": 2860,
+      "owner": "github:NicoM1",
+      "versions": 1
+    },
+    {
+      "title": "Machiato Libre",
+      "name": "machiato-libre",
+      "description": "Espresso Libre inspired theme",
+      "version": "0.0.2",
+      "author": {
+        "name": "Christopher Peddecord"
+      },
+      "homepage": "https://github.com/cpeddecord/machiato",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:cpeddecord/machiato"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "machiato.css",
+        "dark": true
+      },
+      "totalDownloads": 2443,
+      "owner": "github:cpeddecord",
+      "versions": 2
+    },
+    {
+      "title": "Midnight Glow",
+      "name": "midnightglow-theme",
+      "description": "A brackets theme focused on readabiity.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Ryan McKay",
+        "email": "ryanmckay@outlook.com"
+      },
+      "homepage": "https://github.com/notasz/Brackets-Midnightglow",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:notasz/Brackets-Midnightglow.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 4199,
+      "owner": "github:notasz",
+      "versions": 3
+    },
+    {
+      "title": "Notepad++ Theme",
+      "name": "notepadplus",
+      "description": "Notepad++ Theme for Brackets",
+      "version": "1.0.3",
+      "author": {
+        "name": "Essam Bahassan",
+        "email": "essam.soft@gmail.com"
+      },
+      "homepage": "https://github.com/EssamManzilak/NotepadPlusThemeForBrackets",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/EssamManzilak/NotepadPlusThemeForBrackets.git"
+      },
+      "keywords": [
+        "themes",
+        "notepadplus"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "notepadplus.css",
+        "dark": true
+      },
+      "totalDownloads": 5028,
+      "owner": "github:EssamManzilak",
+      "versions": 1
+    },
+    {
+      "title": "Tomorrow Night Bright",
+      "name": "tomorrow-night-bright",
+      "description": "Tomorrow Night Bright theme for Brackets. Based on the Tomorrow Night theme by Chris Kempson and the port by Ryan Stewart.",
+      "version": "1.0.2",
+      "author": {
+        "name": "Gerard Braad",
+        "email": "me@gbraad.nl",
+        "url": "http://github.com/gbraad"
+      },
+      "homepage": "https://github.com/gbraad/Brackets-TomorrowNightBright",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:gbraad/Brackets-TomorrowNightBright.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "tomorrow-night-bright.css",
+        "dark": true
+      },
+      "screenshot": "tomorrow-night-bright-screenshot-html.png",
+      "totalDownloads": 2990,
+      "owner": "github:gbraad",
+      "versions": 1
+    },
+    {
+      "name": "pythonista-dark",
+      "title": "Pythonista Dark",
+      "description": "A dark theme using Python's yellow and blue",
+      "homepage": "https://github.com/wendrom/pythonista-dark",
+      "version": "1.0.0",
+      "author": {
+        "name": "Wendrom"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "dark"
+      ],
+      "totalDownloads": 2831,
+      "owner": "github:wendrom",
+      "versions": 1
+    },
+    {
+      "title": "Jellybeans",
+      "name": "jellybeans",
+      "description": "Jellybeans theme for Brackets",
+      "version": "1.0.1",
+      "author": {
+        "name": "Ted Jenkins"
+      },
+      "homepage": "https://github.com/jsbalrog/brackets-jellybeans",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:jsbalrog/brackets-jellybeans.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "jellybeans.less",
+        "dark": true
+      },
+      "screenshot": "jellybeans.png",
+      "totalDownloads": 8438,
+      "owner": "github:jsbalrog",
+      "versions": 6
+    },
+    {
+      "name": "kmelkon.seti-syntax",
+      "title": "Seti Syntax",
+      "description": "This theme is a port of Seti Syntax for Atom.io",
+      "homepage": "https://github.com/kmelkon/seti-syntax-brackets",
+      "version": "0.0.1",
+      "author": {
+        "name": "Karam Melkon",
+        "email": "kmelkon@gmail.com",
+        "url": "http://kmelkon.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 3279,
+      "owner": "github:kmelkon",
+      "versions": 1
+    },
+    {
+      "title": "Mushin Dark",
+      "name": "mushin-dark",
+      "description": "Mushin Dark Theme for Brackets. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/MushinDark",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/MushinDark.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "mushindark.css",
+        "dark": true
+      },
+      "totalDownloads": 3270,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Mushin Light",
+      "name": "mushin-light",
+      "description": "Mushin Light Theme for Brackets. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/MushinLight",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/MushinLight.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "mushinlight.css",
+        "dark": false
+      },
+      "totalDownloads": 2430,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Nature",
+      "name": "nature-theme",
+      "description": "The Nature a Dark Theme for Brackets!",
+      "version": "0.2.0",
+      "author": {
+        "name": "Denisov21",
+        "url": "https://github.com/Denisov21"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Nature",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/Nature.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "theme": {
+        "file": "nature.css",
+        "dark": true
+      },
+      "totalDownloads": 9799,
+      "owner": "github:Denisov21",
+      "versions": 5
+    },
+    {
+      "name": "kmelkon.material-brackets",
+      "title": "Material Brackets",
+      "description": "A light theme inspired by Google's Material Design",
+      "homepage": "https://github.com/kmelkon/material-brackets",
+      "version": "0.0.1",
+      "author": {
+        "name": "Karam Melkon",
+        "email": "kmelkon@gmail.com",
+        "url": "http://kmelkon.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 5273,
+      "owner": "github:kmelkon",
+      "versions": 1
+    },
+    {
+      "title": "Son of Monokai",
+      "name": "son-of-monokai-theme",
+      "description": "Monokai based Brackets theme. Bolder font. Italic comments. Other perks.",
+      "version": "0.1.2",
+      "author": {
+        "name": "Michael Adaixo",
+        "email": "michael.adaixo@gmail.com",
+        "url": "http://michaeladaixo.com/"
+      },
+      "homepage": "https://github.com/Mikea15/Son-of-Monokai",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Theme/Son-of-Monokai.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "dark"
+      ],
+      "totalDownloads": 12231,
+      "owner": "github:Mikea15",
+      "versions": 3
+    },
+    {
+      "name": "vtrrsl.lapland",
+      "title": "Lapland",
+      "description": "Dark theme, nice colors. That's it.",
+      "homepage": "https://github.com/vtrrsl/lapland",
+      "version": "1.0.0",
+      "author": {
+        "name": "Victor",
+        "email": "mail@vtrr.sl",
+        "url": "http://vtrr.sl"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 3800,
+      "owner": "github:vtrrsl",
+      "versions": 1
+    },
+    {
+      "name": "spissl.obsidian",
+      "title": "Obsidian",
+      "description": "Slightly customised Obsidian Theme - Based on Obsidian for Komodo by Gizmoh",
+      "homepage": "http://github.com/LegibleEel/Obsidian",
+      "version": "1.1.1",
+      "author": {
+        "name": "Sean",
+        "email": "sean@issl.co.uk"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "obsidian, theme"
+      ],
+      "totalDownloads": 7648,
+      "owner": "github:LegibleEel",
+      "versions": 3
+    },
+    {
+      "name": "solarized-light",
+      "title": "solarized-light",
+      "description": "Solarized Light theme as described by http://ethanschoonover.com/solarized",
+      "homepage": "https://github.com/astronomerdamo/Brackets-solarizedLight",
+      "version": "1.0.0",
+      "author": {
+        "name": "Damien Robertson",
+        "email": "robertsondamien@gmail.com",
+        "url": "http://astronomerdamo.github.io/"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "Solarized",
+        "Light"
+      ],
+      "totalDownloads": 4640,
+      "owner": "github:astronomerdamo",
+      "versions": 1
+    },
+    {
+      "name": "solarized-dark",
+      "title": "solarized-dark",
+      "description": "Solarized Dark theme as described by http://ethanschoonover.com/solarized",
+      "homepage": "https://github.com/astronomerdamo/Brackets-solarizedDark",
+      "version": "1.0.0",
+      "author": {
+        "name": "Damien Robertson",
+        "email": "robertsondamien@gmail.com",
+        "url": "http://astronomerdamo.github.io/"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "Solarized",
+        "Dark"
+      ],
+      "totalDownloads": 6959,
+      "owner": "github:astronomerdamo",
+      "versions": 1
+    },
+    {
+      "title": "Monokai Redux",
+      "name": "chiraggude.monokai-redux",
+      "description": "This dark theme is a customized version of the Monokai color scheme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Chirag Gude",
+        "email": "chiraggude@gmail.com",
+        "url": "https://github.com/chiraggude"
+      },
+      "homepage": "https://github.com/chiraggude/brackets-monokai-redux",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:chiraggude/brackets-monokai-redux.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 8237,
+      "owner": "github:chiraggude",
+      "versions": 1
+    },
+    {
+      "title": "Newton Light",
+      "name": "newton-light",
+      "description": "Sophisticated spectral theme for Brackets. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/NewtonLight",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/NewtonLight.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "newtonlight.css",
+        "dark": false
+      },
+      "totalDownloads": 3792,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Newton Dark",
+      "name": "newton-dark",
+      "description": "Sophisticated spectral theme for Brackets. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/NewtonDark",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/NewtonDark.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "newtondark.css",
+        "dark": true
+      },
+      "totalDownloads": 5627,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Varz Dark",
+      "name": "varz-dark",
+      "description": "Minimal theme for Brackets. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/VarzDark",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/VarzDark.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "varzdark.css",
+        "dark": true
+      },
+      "totalDownloads": 3809,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "name": "kiwi-kiwi-dark",
+      "title": "Kiwi Kiwi Dark",
+      "description": "A delicious dark theme.",
+      "homepage": "https://github.com/wendrom/kiwi-kiwi-dark",
+      "version": "1.0.0",
+      "author": {
+        "name": "Wendrom"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "dark"
+      ],
+      "totalDownloads": 4378,
+      "owner": "github:wendrom",
+      "versions": 1
+    },
+    {
+      "title": "Java Light",
+      "name": "javalight",
+      "description": "Awesome Java-Light flavoured theme, stay cool in day time!",
+      "version": "0.0.5",
+      "author": {
+        "name": "Vigneash Sundar",
+        "email": "vigneashsundar@live.com"
+      },
+      "homepage": "https://github.com/vikene/java-light",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:vikene/java-light.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "java-light.less",
+        "dark": false
+      },
+      "totalDownloads": 3905,
+      "owner": "github:vikene",
+      "versions": 1
+    },
+    {
+      "name": "spissl.son-of-obsidian",
+      "title": "Son of Obsidian",
+      "description": "Customised Son of Obsidian Theme",
+      "homepage": "http://github.com/LegibleEel/Son-Of-Obsidian",
+      "version": "1.0.0",
+      "author": {
+        "name": "Sean",
+        "email": "sean@issl.co.uk"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "Son of Obsidian, theme"
+      ],
+      "totalDownloads": 3010,
+      "owner": "github:LegibleEel",
+      "versions": 1
+    },
+    {
+      "name": "wombatish-theme",
+      "title": "Wombatish",
+      "description": "This theme is based on Wombatish for Sublime text, which is based on Wombat",
+      "homepage": "https://github.com/vlad-saling/wombatish-brackets",
+      "version": "1.0.1",
+      "author": {
+        "name": "Vlad Saling",
+        "url": "https://github.com/vlad-saling"
+      },
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:vlad-saling/wombatish-brackets.git"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 5526,
+      "owner": "github:vlad-saling",
+      "versions": 2
+    },
+    {
+      "title": "iPlastic",
+      "name": "iplastic",
+      "description": "iPlastic by Jeroen van der Ham, converted from TextMate theme (iPlastic.tmTheme)",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/IPlastic",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/IPlastic.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "iplastic.css",
+        "dark": false
+      },
+      "totalDownloads": 4069,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Midnight Pumpkin",
+      "name": "midnight-pumpkin",
+      "description": "Dark theme. Black, white, orange and yellow. A Brackets original.",
+      "version": "1.0.0",
+      "author": {
+        "name": "larz0",
+        "url": "https://github.com/larz0"
+      },
+      "homepage": "https://github.com/Brackets-Themes/MidnightPumpkin",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Themes/MidnightPumpkin.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "midnightpumpkin.css",
+        "dark": true
+      },
+      "totalDownloads": 3944,
+      "owner": "github:larz0",
+      "versions": 1
+    },
+    {
+      "title": "Rhode Island Red",
+      "name": "rhode-island-red",
+      "description": "Silky, dark, maroon based theme to give your code a touch of class",
+      "version": "1.0.5",
+      "author": {
+        "name": "Steve McArthur",
+        "email": "contact@stevemcarthur.co.uk"
+      },
+      "homepage": "https://github.com/SteveMcArthur/rhode-island-red-theme",
+      "keywords": [
+        "theme",
+        "red",
+        "dark",
+        "cool"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:SteveMcArthur/rhode-island-red-theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.44.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshots/js.PNG",
+      "totalDownloads": 8301,
+      "owner": "github:SteveMcArthur",
+      "versions": 7
+    },
+    {
+      "title": "Azrem",
+      "name": "azrem",
+      "description": "Orange theme for python/tornado/django users",
+      "version": "0.0.1",
+      "author": {
+        "name": "Aliane Abdelouahab",
+        "email": "abdelouahab_al@yahoo.fr"
+      },
+      "homepage": "https://github.com/abdelouahabb/azrem",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/abdelouahabb/azrem.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 2214,
+      "owner": "github:abdelouahabb",
+      "versions": 1
+    },
+    {
+      "title": "Pinkcutie",
+      "name": "pinkcutie",
+      "description": "Pinkcutie Theme Brackets. Dark yet pink.",
+      "version": "1.0.0",
+      "author": {
+        "name": "JDViz"
+      },
+      "homepage": "",
+      "repository": {
+        "type": "git",
+        "url": ""
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "pinkcutie.css",
+        "dark": true
+      },
+      "totalDownloads": 2253,
+      "owner": "github:JDViz",
+      "versions": 1
+    },
+    {
+      "title": "Moonlit Glacier",
+      "name": "moonlitglacier",
+      "description": "A dark theme with light blue highlights for use with the Brackets Web Editor.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Phantomwalker"
+      },
+      "homepage": "https://github.com/Phantomwalker/brackets-moonlitglaciertheme",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Phantomwalker/brackets-moonlitglaciertheme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "moonlitglacier.css",
+        "dark": true
+      },
+      "totalDownloads": 4428,
+      "owner": "github:Phantomwalker",
+      "versions": 2
+    },
+    {
+      "name": "laron.liquid",
+      "title": "Liquid",
+      "description": "Dark Theme for brackets.",
+      "homepage": "https://github.com/LAron/Liquid",
+      "version": "1.0.1",
+      "author": {
+        "name": "pawel.smolaga@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "liquid.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme",
+        "liquid",
+        "dark",
+        "laron"
+      ],
+      "categories": [
+        "visual"
+      ],
+      "totalDownloads": 7791,
+      "owner": "github:LAron",
+      "versions": 2
+    },
+    {
+      "name": "robingruenke.icecream",
+      "title": "Icecream Theme",
+      "description": "Pistachio, Strawberry and Blueberry!",
+      "homepage": "https://github.com/eimfach/brackets-theme-icecream",
+      "version": "1.0.1",
+      "author": {
+        "name": "Robin Gruenke"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 3258,
+      "owner": "github:eimfach",
+      "versions": 2
+    },
+    {
+      "name": "reginbald.flat-theme",
+      "title": "Flat Theme",
+      "description": "As Flat as it gets!",
+      "homepage": "https://github.com/reginbald/flat-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jon Reginbald Ivarsson",
+        "email": "joni12@ru.is",
+        "url": "http://www.reginbald.is/"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.28.0"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/reginbald/flat-theme.git"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "flat",
+        "dark",
+        "theme"
+      ],
+      "totalDownloads": 5597,
+      "owner": "github:reginbald",
+      "versions": 1
+    },
+    {
+      "name": "specials-menu",
+      "title": "Specials Menu",
+      "description": "The 'Specials Menu' theme included with Coda 2, now available for Brackets.",
+      "homepage": "https://github.com/123dj/Specials-Menu",
+      "version": "1.0.0",
+      "author": {
+        "name": "Max Isom",
+        "email": "susandisom@hotmail.com",
+        "url": "http://electrichaircut.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2870,
+      "owner": "github:123dj",
+      "versions": 1
+    },
+    {
+      "title": "Gengivized",
+      "name": "gengivized",
+      "description": "Gengivized Theme for Brackets",
+      "version": "1.0.1",
+      "author": {
+        "name": "Jonathan Argentiero",
+        "email": "jonathan.argentiero@gmail.com"
+      },
+      "homepage": "https://github.com/jonathanargentiero/Gengivized",
+      "keywords": [
+        "theme",
+        "classic",
+        "light",
+        "standard"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/jonathanargentiero/Gengivized.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less"
+      },
+      "totalDownloads": 1732,
+      "owner": "github:jonathanargentiero",
+      "versions": 2
+    },
+    {
+      "title": "Flattark Dark",
+      "name": "yangodev-flattark-dark",
+      "description": "Dark Flat Theme for Brackets",
+      "version": "0.0.3",
+      "author": {
+        "name": "y4ng0@yangodev",
+        "email": "https://github.com/yangodev"
+      },
+      "homepage": "https://github.com/yangodev/Flattark",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/yangodev/Flattark.git"
+      },
+      "keywords": [
+        "dark",
+        "flattark",
+        "flat",
+        "theme"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "screenshot": "screen.png",
+      "totalDownloads": 10114,
+      "owner": "github:yangodev",
+      "versions": 3
+    },
+    {
+      "name": "aurooba.happylike",
+      "title": "Happy-Like",
+      "description": "A bright and happy theme for people who enjoy code.",
+      "homepage": "https://github.com/aurooba/Brackets-Theme-Happy-Like",
+      "version": "0.0.1",
+      "author": {
+        "name": "Aurooba Ahmed",
+        "email": "aurooba@auroobaahmed.com",
+        "url": "http://auroobaahmed.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2970,
+      "owner": "github:aurooba",
+      "versions": 1
+    },
+    {
+      "name": "brunnopleffken.light-table-theme",
+      "title": "LightTable",
+      "description": "Cool and pleasant colors, based on LightTable default theme.",
+      "homepage": "https://github.com/brunnopleffken/light-table-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Brunno Pleffken",
+        "email": "brunno.pleffken@outlook.com",
+        "url": "http://github.com/brunnopleffken"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 4292,
+      "owner": "github:brunnopleffken",
+      "versions": 1
+    },
+    {
+      "title": "Fox - Dark",
+      "name": "fox-brackets--dark",
+      "description": "A UI + Syntax theme for Brackets based on Mozilla's Firefox Developer Edition.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Karel Vuong",
+        "email": "vuongkarel@gmail.com"
+      },
+      "homepage": "https://github.com/karelvuong/fox-brackets--dark",
+      "keywords": [
+        "extension",
+        "brackets",
+        "firefox",
+        "blue",
+        "dark",
+        "theme"
+      ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/karelvuong/fox-brackets--dark.git"
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "fox.dark.less",
+        "dark": true
+      },
+      "screenshot": "screenshots/fox.dark--js.jpg",
+      "totalDownloads": 5632,
+      "owner": "github:karelvuong",
+      "versions": 2
+    },
+    {
+      "title": "Dreamweaver Theme",
+      "name": "dreamweaver-light",
+      "description": "A dreamweaver theme that makes your code pretty and readable.",
+      "version": "1.0.6",
+      "author": {
+        "name": "Hamid Dastani",
+        "email": "dastanionline@gmail.com",
+        "url": "http://dastanionline.ir/"
+      },
+      "homepage": "https://github.com/dastani/Dreamweaver-Brakcets",
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": false
+      },
+      "totalDownloads": 6117,
+      "owner": "github:dastani",
+      "versions": 1
+    },
+    {
+      "name": "yo-theme",
+      "title": "YoTheme",
+      "description": "YoTheme for Brackets!",
+      "homepage": "https://github.com/aklenczar/yotheme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Arkadiusz Klenczar",
+        "email": "a.klenczar@gmail.com",
+        "url": "http://informatyk.tychy.pl"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2469,
+      "owner": "github:aklenczar",
+      "versions": 1
+    },
+    {
+      "title": "Visual Studio Dark",
+      "name": "visual-studio-dark",
+      "description": "Visual Studio Dark theme for Brackets. Has language specific syntax colouring by using addModeClass=true.",
+      "version": "1.1.2",
+      "author": {
+        "name": "Fergal Doyle",
+        "email": "fergal_doyle@yahoo.com"
+      },
+      "homepage": "https://github.com/fergaldoyle/brackets-visual-studio-dark",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/fergaldoyle/brackets-visual-studio-dark"
+      },
+      "keywords": [
+        "extension",
+        "brackets",
+        "dark",
+        "theme"
+      ],
+      "theme": {
+        "file": "theme/main.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "totalDownloads": 15238,
+      "owner": "github:fergaldoyle",
+      "versions": 7
+    },
+    {
+      "title": "Chrome",
+      "name": "chrome",
+      "description": "Chrome Theme for Brackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rameez Raja",
+        "email": "mrameezraja@gmail.com"
+      },
+      "homepage": "https://github.com/Brackets-Themes/Chrome",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/Brackets-Themes/Chrome.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less"
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 7077,
+      "owner": "github:mrameezraja",
+      "versions": 1
+    },
+    {
+      "title": "Black Mint Theme",
+      "name": "blackmint-theme",
+      "description": "Dark Flat Theme for Brackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "julianericain@outlook.com",
+        "email": "https://github.com/JulienMcJay"
+      },
+      "homepage": "https://github.com/JulienMcJay/blackmint-theme",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/JulienMcJay/blackmint-theme.git"
+      },
+      "keywords": [
+        "dark",
+        "jdev",
+        "flat",
+        "theme"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "screenshot": "screen.png",
+      "totalDownloads": 6266,
+      "owner": "github:JulienMcJay",
+      "versions": 1
+    },
+    {
+      "title": "Github Theme",
+      "name": "github-theme",
+      "description": "Light Github-like theme",
+      "version": "0.0.1",
+      "author": {
+        "name": "George Raptis",
+        "email": "georapbox@gmail.com"
+      },
+      "homepage": "https://github.com/georapbox/brackets-github-theme",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/georapbox/brackets-github-theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.44.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "totalDownloads": 5472,
+      "owner": "github:georapbox",
+      "versions": 1
+    },
+    {
+      "title": "Dream PHP",
+      "name": "dream-php",
+      "description": "A dream theme that simulates PHP coloring scheme of Dreamweaver",
+      "keywords": [
+        "light",
+        "theme",
+        "php",
+        "dreamweaver"
+      ],
+      "homepage": "https://github.com/cithukyaw/DreamPHP",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/cithukyaw/DreamPHP.git"
+      },
+      "bugs": {
+        "url": "https://github.com/cithukyaw/DreamPHP/issues"
+      },
+      "author": {
+        "name": "Sithu K.",
+        "url": "https://github.com/cithukyaw"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "1.0.0",
+      "totalDownloads": 5432,
+      "owner": "github:cithukyaw",
+      "versions": 1
+    },
+    {
+      "name": "com.rubenengelbrecht.frackets",
+      "title": "Frackets Theme",
+      "description": "A brackets theme based upon flat colors",
+      "homepage": "https://github.com/rubenrme/frackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ruben Engelbrecht",
+        "email": "me@rubenengelbrecht.com",
+        "url": "http://rubenengelbrecht.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme, flat, ruben, engelbrecht, frackets, beautiful"
+      ],
+      "totalDownloads": 2628,
+      "owner": "github:RubenRME",
+      "versions": 1
+    },
+    {
+      "name": "tremendus-dark-theme",
+      "title": "Tremendus Dark Theme",
+      "description": "A dark syntax theme with muted pastel colors great for those long or late night coding sessions :)",
+      "homepage": "https://github.com/tremendus/tremendus-dark-theme",
+      "version": "1.0.2",
+      "author": {
+        "name": "Tremendus Apps <darren@tremendusapps.com> "
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "TremendusDark.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 4486,
+      "owner": "github:tremendus",
+      "versions": 3
+    },
+    {
+      "title": "Zeedijk",
+      "name": "zeedijk",
+      "description": "Light theme for Adobe Brackets",
+      "version": "0.1.0",
+      "author": {
+        "name": "Frédéric Serva",
+        "email": "fred.serva@gmail.com"
+      },
+      "homepage": "https://github.com/fredserva/zeedijk",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/fredserva/zeedijk.git"
+      },
+      "engines": {
+        "brackets": ">=0.44.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "totalDownloads": 2354,
+      "owner": "github:fredserva",
+      "versions": 1
+    },
+    {
+      "name": "dustindowell.neon",
+      "title": "Neon",
+      "description": "A cool, bright and sleek theme. Themed Code Folding and CSS Color Preview.",
+      "homepage": "https://github.com/dustindowell22/neon-brackets-theme",
+      "version": "1.1.8",
+      "author": {
+        "name": "Dustin Dowell",
+        "url": "https://github.com/dustindowell22"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "neon",
+        "dark"
+      ],
+      "totalDownloads": 28933,
+      "owner": "github:dustindowell22",
+      "versions": 19
+    },
+    {
+      "name": "os.xcode.theme",
+      "title": "xcode theme (yosemite) Light",
+      "description": "An Brackets theme for a more native experience on OS X Yosemite. to maximize the topic, see (https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets#user-content-add-preferences)",
+      "version": "5.1.0",
+      "homepage": "https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets",
+      "author": {
+        "name": "Avril Alejandro",
+        "url": "https://twitter.com/AVRIL_ALEJANDRO"
+      },
+      "categories": "theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/DH3ALEJANDRO/xcodeTheme-for-brackets.git"
+      },
+      "theme": {
+        "file": "xcode.theme.min.css",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "xcode",
+        "os",
+        "yosemite",
+        "avril"
+      ],
+      "totalDownloads": 16604,
+      "owner": "github:DH3ALEJANDRO",
+      "versions": 10
+    },
+    {
+      "name": "kreshikhin.alien-planet",
+      "title": "Alien Planet",
+      "description": "Dark colorscheme - only black, white and grey",
+      "homepage": "https://github.com/kreshikhin/alien-planet",
+      "version": "1.0.0",
+      "author": {
+        "name": "Denis Kreshikhin",
+        "email": "denis@kreshikhin.com",
+        "url": "http://kreshikhin.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "alien",
+        "planet"
+      ],
+      "totalDownloads": 2644,
+      "owner": "github:kreshikhin",
+      "versions": 1
+    },
+    {
+      "title": "Brackets Very Dark",
+      "name": "jay-theme",
+      "description": "A darker theme for Brackets, as dark as command prompt",
+      "version": "2.0.0",
+      "author": {
+        "name": "Jaycee Okeke",
+        "email": "okekejay@gmail.com"
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "Jay.less",
+        "dark": true
+      },
+      "totalDownloads": 5194,
+      "owner": "github:JayceeMinecraft",
+      "versions": 5
+    },
+    {
+      "title": "Crystal Blue",
+      "name": "tadorhead.crystal-blue.dark",
+      "description": "Great for your eyes",
+      "homepage": "https://github.com/TadorHead/Crystal-Blue",
+      "version": "1.0.2",
+      "author": {
+        "name": "TadorHead",
+        "email": "tadorhead1@gmail.com"
+      },
+      "theme": {
+        "file": "Theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 7849,
+      "owner": "github:TadorHead",
+      "versions": 3
+    },
+    {
+      "title": "Black Flat theme - Brackets Theme",
+      "name": "msthomaz-theme-brackets",
+      "description": "Matheus S. Thomaz - Black Flat theme - Brackets Themes",
+      "version": "0.1.1",
+      "author": {
+        "name": "contato@msthomaz.com"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:MatheusSThomaz/Brackets-BlackFlat-theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "screenshot": "screen.png",
+      "totalDownloads": 3513,
+      "owner": "github:MatheusSThomaz",
+      "versions": 1
+    },
+    {
+      "name": "tadorhead.graphite-in-neon",
+      "title": "Graphite in Neon",
+      "description": "A semi-dark theme that's colourful and helpful.",
+      "homepage": "http://github.com/TadorHead/Graphite",
+      "version": "1.0.0",
+      "author": {
+        "name": "TadorHead",
+        "email": "tadorhead1@gmail.com"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 3498,
+      "owner": "github:TadorHead",
+      "versions": 1
+    },
+    {
+      "name": "funkemedia.fnk-dark-theme",
+      "title": "Funkemedia Dark Theme",
+      "description": "A Dark Theme based on an inverted version of Dreamweavers light standard theme. Great if you are used to dreamweavers colours but a lot easier on the eye.",
+      "homepage": "https://github.com/FnkSte/brackets-theme-fnk-dw-dark",
+      "version": "1.0.1",
+      "author": {
+        "name": "Funkemedia Ltd",
+        "email": "steven@funkemedia.co.uk",
+        "url": "http://www.funkemedia.co.uk"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "dreamweaver"
+      ],
+      "totalDownloads": 5168,
+      "owner": "github:FnkSte",
+      "versions": 2
+    },
+    {
+      "name": "jimgallaher.cobalt",
+      "title": "Cobalt",
+      "description": "A dark blue theme based on Cobalt for Sublime.",
+      "homepage": "https://github.com/jcgallaher/cobalt-brackets-theme",
+      "version": "1.0.6",
+      "author": {
+        "name": "Jim Gallaher",
+        "email": "emailjim@jimgallaher.com",
+        "url": "http://jimgallaher.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "cobalt",
+        "dark"
+      ],
+      "totalDownloads": 4289,
+      "owner": "github:jcgallaher",
+      "versions": 2
+    },
+    {
+      "name": "jimgallaherblackboard",
+      "title": "Blackboard",
+      "description": "A dark grey, green, blue, orange, yellow, and white theme based on Blackboard for Sublime",
+      "homepage": "https://github.com/jcgallaher/blackboard-brackets-theme",
+      "version": "1.0.2",
+      "author": {
+        "name": "Jim Gallaher",
+        "email": "emailjim@jimgallaher.com",
+        "url": "http://jimgallaher.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "blackboard",
+        "dark"
+      ],
+      "totalDownloads": 5368,
+      "owner": "github:jcgallaher",
+      "versions": 2
+    },
+    {
+      "name": "jimgallaher.hannah",
+      "title": "Hannah",
+      "description": "A purple background, with added green, white, gold, and light blue colors.",
+      "homepage": "https://github.com/jcgallaher/hannah-brackets-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jim Gallaher",
+        "email": "emailjim@jimgallaher.com",
+        "url": "http://jimgallaher.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "hannah",
+        "purple"
+      ],
+      "totalDownloads": 2189,
+      "owner": "github:jcgallaher",
+      "versions": 1
+    },
+    {
+      "title": "Ceratrior",
+      "name": "ceratrior",
+      "description": "Ceratrior theme for Brackets.",
+      "homepage": "https://github.com/voronar/brackets-theme-ceratrior",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kirill A. Khalitov voronar@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "ceratrior.css",
+        "dark": true
+      },
+      "totalDownloads": 2360,
+      "owner": "github:Voronar",
+      "versions": 1
+    },
+    {
+      "title": "Stripper",
+      "name": "stripper-theme",
+      "description": "A brackets theme focused on readabiity.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Bruce McElroy",
+        "email": "bruce.mcelroy@gmail.com"
+      },
+      "homepage": "https://github.com/visualbam/Brackets-Stripper",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/Visualbam/Brackets-Stripper"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 10856,
+      "owner": "github:Visualbam",
+      "versions": 10
+    },
+    {
+      "name": "hegdeashwin.brackets-nodejs-theme",
+      "title": "Brackets Nodejs Theme",
+      "description": "This theme is for Nodejs developers",
+      "homepage": "https://github.com/hegdeashwin/brackets-nodejs-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ashwin Hegde",
+        "email": "hegde.ashwin@yahoo.com",
+        "url": "http://github.com/hegdeashwin"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2824,
+      "owner": "github:hegdeashwin",
+      "versions": 1
+    },
+    {
+      "title": "Blumberry Theme",
+      "name": "blumberry-theme",
+      "description": "A lightweight Coda-inspired theme for Brackets.io.",
+      "keywords": [
+        "light",
+        "theme",
+        "berry"
+      ],
+      "homepage": "https://github.com/jomurgel/Blumberry-Theme",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/jomurgel/Blumberry-Theme.git"
+      },
+      "bugs": {
+        "url": "https://github.com/jomurgel/Blumberry-Theme/issues"
+      },
+      "author": {
+        "name": "jomurgel",
+        "url": "https://github.com/jomurgel"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "1.1.0",
+      "totalDownloads": 3147,
+      "owner": "github:jomurgel",
+      "versions": 1
+    },
+    {
+      "name": "josephgf.obsidian2",
+      "title": "Obsidian 2.0",
+      "description": "Theme based on Obsidian for Seam and change highlight colours",
+      "homepage": "https://github.com/JosephGF/bracketstheme-obsidian2",
+      "version": "1.1.2",
+      "author": {
+        "name": "Joseph Girón Flores"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "obsidian, theme"
+      ],
+      "totalDownloads": 5965,
+      "owner": "github:JosephGF",
+      "versions": 5
+    },
+    {
+      "name": "dsgn.dracula-theme",
+      "title": "Dracula",
+      "description": "A theme of terrible evil, for your coding pleasure, bwahahahahahaaa-cough-haaaa. Oh yeah, you will need to install the Brackets UI Theming Enable plugin too, for the full Dracula experience.",
+      "homepage": "https://github.com/NetOperatorWibby/DraculaBrackets",
+      "version": "1.0.1",
+      "author": {
+        "name": "Paul Anthony Webb",
+        "email": "paul@dsgn.io",
+        "url": "http://dsgn.io"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "dracula.css",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "dark",
+        "theme",
+        "skin"
+      ],
+      "bugs": "https://github.com/NetOperatorWibby/DraculaBrackets/issues",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/NetOperatorWibby/DraculaBrackets.git"
+      },
+      "totalDownloads": 5384,
+      "owner": "github:NetOperatorWibby",
+      "versions": 2
+    },
+    {
+      "name": "roberthchan.geekotheme",
+      "title": "Geekowater",
+      "description": "Tema Geeko basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor.",
+      "homepage": "https://github.com/roberthchan/roberthchan.geekotheme",
+      "version": "0.1.4",
+      "author": {
+        "name": "Roberth Chan chanbalamb@gmail.com",
+        "url": "http://wp.me/p5cVcr-2X"
+      },
+      "license": "CC BY",
+      "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 4338,
+      "owner": "github:roberthchan",
+      "versions": 5
+    },
+    {
+      "title": "Sob Theme",
+      "name": "sob-theme",
+      "description": "Theme based on ITG.flat sublime theme + MidnightPumpkin colors.",
+      "version": "0.8.0",
+      "author": {
+        "name": "Koci",
+        "url": "https://github.com/kocisov"
+      },
+      "homepage": "https://github.com/kocisov/sobtheme",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com/Kocisov/SobTheme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.43.0"
+      },
+      "theme": {
+        "file": "sob.css",
+        "dark": true
+      },
+      "totalDownloads": 1931,
+      "owner": "github:Kocisov",
+      "versions": 1
+    },
+    {
+      "name": "flatlandish",
+      "title": "Flatlandish",
+      "description": "Theme based roughly off of the Sublime Text Flatland Theme",
+      "homepage": "https://github.com/nickfmc/flatlandish",
+      "version": "0.7.2",
+      "author": {
+        "name": "Nick Murray",
+        "email": "nick@mountainairweb.com",
+        "url": "http://mountainairweb.com"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "keywords": [
+        "theme, flatland, flatlandish, flat, subtle, easy, eyes"
+      ],
+      "totalDownloads": 5523,
+      "owner": "github:nickfmc",
+      "versions": 7
+    },
+    {
+      "title": "Tomorrow Night Eighties",
+      "name": "tomorrow-night-eighties",
+      "description": "Tomorrow Night Eighties theme for Brackets",
+      "version": "1.1.2",
+      "author": {
+        "name": "Patrick Fricano",
+        "email": "patrick.fricano@icloud.com",
+        "url": "http://github.com/patrickfatrick"
+      },
+      "homepage": "https://github.com/patrickfatrick/TomorrowNightEighties",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com/patrickfatrick/TomorrowNightEighties.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "tomorrow-night-eighties.css",
+        "dark": true
+      },
+      "screenshot": "tomorrow-night-eighties-css.tiff",
+      "totalDownloads": 3977,
+      "owner": "github:patrickfatrick",
+      "versions": 7
+    },
+    {
+      "title": "Spacegray-Brackets",
+      "name": "alexpersian.spacegray-brackets",
+      "description": "The popular Spacegray theme from Sublime Text, now in Brackets!",
+      "version": "1.1.0",
+      "author": {
+        "name": "Alex Persian",
+        "email": "alex.persian@outlook.com",
+        "url": "http://alexpersian.com/"
+      },
+      "homepage": "https://github.com/alexpersian/Spacegray-Brackets",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:Brackets-Theme/Spacegray-Brackets.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 7740,
+      "owner": "github:alexpersian",
+      "versions": 2
+    },
+    {
+      "title": "Orchid Theme",
+      "name": "orchid-theme",
+      "description": "Orchid theme for Brackets",
+      "version": "1.0.3",
+      "author": {
+        "name": "Patrick Fricano",
+        "email": "patrick.fricano@icloud.com",
+        "url": "http://github.com/patrickfatrick"
+      },
+      "homepage": "https://github.com/patrickfatrick/orchid-theme",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com/patrickfatrick/orchid-theme.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "orchid-theme.css",
+        "dark": true
+      },
+      "screenshot": "orchid-js.tiff",
+      "totalDownloads": 2330,
+      "owner": "github:patrickfatrick",
+      "versions": 4
+    },
+    {
+      "title": "JetBrains Darcula",
+      "name": "darcula-theme",
+      "description": "Dark theme based on JetBrains WebStorm's Darcula",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alberto Dorado",
+        "email": "dorado.develop@gmail.com",
+        "url": "https://github.com/AlbertoDorado"
+      },
+      "homepage": "https://github.com/AlbertoDorado/darcula-for-brackets",
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.1"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme, darcula, webstorm, jetbrains, intellij"
+      ],
+      "totalDownloads": 4580,
+      "owner": "github:AlbertoDorado",
+      "versions": 1
+    },
+    {
+      "name": "warnney.darkcloud",
+      "title": "Dark Cloud",
+      "description": "Dark and smooth, rest your eyes.",
+      "homepage": "https://github.com/Warnney/dark",
+      "version": "1.0.0",
+      "author": {
+        "name": "Warnney",
+        "email": "warnneysalvatore@outlook.com"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 5149,
+      "owner": "github:Warnney",
+      "versions": 1
+    },
+    {
+      "name": "mignonstyle.simple",
+      "title": "Simple Theme",
+      "description": "Simple Light theme for Brackets.",
+      "homepage": "https://github.com/mignonstyle/brackets-theme-simple",
+      "version": "1.1.0",
+      "author": {
+        "name": "Mignon Style",
+        "url": "https://github.com/mignonstyle"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "keywords": [
+        "theme",
+        "light",
+        "simple"
+      ],
+      "i18n": [
+        "en",
+        "ja"
+      ],
+      "package-i18n": {
+        "ja": {
+          "description": "Bracketsのための、白をベースとしたシンプルなライトカラーのテーマです。"
+        }
+      },
+      "totalDownloads": 3783,
+      "owner": "github:mignonstyle",
+      "versions": 2
+    },
+    {
+      "name": "warnney.bluedream",
+      "title": "Blue Dream",
+      "description": "Why does everyone can dream. Por que todo mundo pode sonhar.",
+      "homepage": "https://github.com/Warnney/bluedream",
+      "version": "1.0.0",
+      "author": {
+        "name": "Warnney",
+        "email": "warnneysalvatore@outlook.com"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2674,
+      "owner": "github:Warnney",
+      "versions": 1
+    },
+    {
+      "name": "resonant-light-theme",
+      "title": "Resonant Light",
+      "description": "Light theme, with dark UI elements. Uses SourceSansPro for comments. Font smoothing is set to sub-pixel for better rendering on Mac OSX. 0.1.2 - Added Documents Toolbar Styles",
+      "homepage": "https://github.com/consonance/resonant-light-theme",
+      "version": "0.1.2",
+      "author": {
+        "name": "Consonance"
+      },
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/consonance/resonant-light-theme"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 4184,
+      "owner": "github:dbrollini",
+      "versions": 3
+    },
+    {
+      "name": "pthdc.pixelariumdark",
+      "title": "Darkium Theme",
+      "description": "Un tema para Brackets oscuro identifica de forma sencilla la funcion de cada etiqueta",
+      "homepage": "https://github.com/TommyHernandez/pixelariumDark",
+      "version": "1.1.0",
+      "author": {
+        "name": "Pedro THDC<your@email> (http://pthernandez.es)"
+      },
+      "license": "APACHE",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "easy",
+        "dark",
+        "color"
+      ],
+      "totalDownloads": 3119,
+      "owner": "github:TommyHernandez",
+      "versions": 1
+    },
+    {
+      "name": "darksystemcd-brackets-theme",
+      "title": "DarkSystemCD | Theme",
+      "description": "provide the productivity quality production from DarkSystemCD programming as WDS_Styles color scheme.",
+      "homepage": "https://github.com/wds-connections/darksystemcd-brackets-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "WDS.DarkBrain® Production",
+        "email": "wds.darkbrain@gmx.com",
+        "url": "https://plus.google.com/104871648733139279056"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/wds-connections/darksystemcd-brackets-theme"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "darksystemcd",
+        "dscd",
+        "darkbrain",
+        "wds",
+        "wdhells"
+      ],
+      "totalDownloads": 2540,
+      "owner": "github:wds-connections",
+      "versions": 1
+    },
+    {
+      "name": "warapitiya.unity",
+      "title": "Unity",
+      "version": "1.0.0",
+      "homepage": "https://github.com/warapitiya/Unity",
+      "description": "Brackets theme",
+      "keywords": [
+        "theme"
+      ],
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "author": {
+        "name": "Malindu Warapitiya",
+        "email": "warapitiya93@gmail.com"
+      },
+      "license": "MIT",
+      "totalDownloads": 3361,
+      "owner": "github:warapitiya",
+      "versions": 1
+    },
+    {
+      "name": "flat-ui-theme",
+      "title": "Flatness",
+      "description": "Flatness is a Brackets theme based on Designmodo's flat ui colours",
+      "homepage": "https://github.com/FreDeRoover/Brackets-flat-ui-based-theme",
+      "version": "1.0.3",
+      "author": {
+        "name": "Fre De Roover",
+        "url": "https: //github.com/FreDeRoover"
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/FreDeRoover/Brackets-flat-ui-based-theme"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "license": "MIT",
+      "keywords": [
+        "theme",
+        "brackets",
+        "flat",
+        "flatness",
+        "flat ui",
+        "designmodo",
+        "dark",
+        "extension",
+        "fork"
+      ],
+      "totalDownloads": 3840,
+      "owner": "github:FreDeRoover",
+      "versions": 3
+    },
+    {
+      "title": "RecognEyes",
+      "name": "brackets-recogneyes-theme",
+      "description": "Brackets port of Eclipse's RecognEyes theme",
+      "version": "0.1.0",
+      "author": {
+        "name": "Yuriy Tyukhnin",
+        "email": "ytyukhnin@gmail.com"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "totalDownloads": 1318,
+      "owner": "github:ytyukhnin",
+      "versions": 1
+    },
+    {
+      "name": "yantrio.base-16-ocean-dark-theme",
+      "title": "Base 16 - Ocean Dark",
+      "description": "A brackets theme based on base-16 ocean dark with a couple little tweaks",
+      "homepage": "https://github.com/yantrio/base-16-ocean-dark-brackets",
+      "version": "1.0.0",
+      "author": {
+        "name": "James Humphries",
+        "email": "James@James-Humphries.co.uk",
+        "url": "http://yantr.io"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2575,
+      "owner": "github:Yantrio",
+      "versions": 1
+    },
+    {
+      "title": "No Highlight",
+      "name": "dnbard.no-highlight",
+      "description": "Dark theme without any syntax highlight support",
+      "keywords": [
+        "dark",
+        "theme",
+        "highlight",
+        "syntax"
+      ],
+      "homepage": "https://github.com/dnbard/no-highlight",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/dnbard/no-highlight.git"
+      },
+      "author": {
+        "name": "Alex Bardanov",
+        "url": "https://github.com/dnbard"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "1.0.1",
+      "totalDownloads": 1350,
+      "owner": "github:dnbard",
+      "versions": 2
+    },
+    {
+      "name": "x-mat.speed-material-dark-theme",
+      "title": "Speed Material Dark Theme",
+      "description": "A dark theme (based on Quick Dark) who use material colors",
+      "homepage": "https://github.com/x-mat/speed-material-dark-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "x-mat",
+        "email": "mattiadifoggia94@gmail.com",
+        "url": "https://github.com/x-mat"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "keywords": [
+        "dark",
+        "theme",
+        "x",
+        "material"
+      ],
+      "totalDownloads": 3453,
+      "owner": "github:x-mat",
+      "versions": 1
+    },
+    {
+      "name": "flat-attack-theme",
+      "title": "Flat Attack",
+      "description": "Flat color light theme for Brackets.",
+      "homepage": "https://github.com/ostranme/flat-attack",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mark Ostrander",
+        "url": "http://github.com/ostranme"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2249,
+      "owner": "github:ostranme",
+      "versions": 1
+    },
+    {
+      "name": "flat-attack-dark-theme",
+      "title": "Flat Attack Dark",
+      "description": "Dark theme using flat colors for Brackets.",
+      "homepage": "https://github.com/ostranme/flat-attack-dark",
+      "version": "1.0.5",
+      "author": {
+        "name": "Mark Ostrander",
+        "url": "http://github.com/ostranme"
+      },
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ostranme/flat-attack-dark"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "brackets",
+        "flat",
+        "flat ui",
+        "dark",
+        "extension"
+      ],
+      "totalDownloads": 9997,
+      "owner": "github:ostranme",
+      "versions": 6
+    },
+    {
+      "title": "Stripper (Clean UI Redo)",
+      "name": "brackets-stripper-redo",
+      "description": "A brackets theme focused on readabilty. Based on the theme made by visualbam - https://github.com/visualbam/Brackets-Stripper",
+      "version": "0.1.1",
+      "author": {
+        "name": "Hendry Sadrak",
+        "email": "hendry.sadrak@outlook.com"
+      },
+      "authors": [
+        "Bruce McElroy <bruce.mcelroy@gmail.com>",
+        "Hendry Sadrak <hendry.sadrak@outlook.com>"
+      ],
+      "homepage": "https://github.com/hendrysadrak/Brackets-Stripper-Redo",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/hendrysadrak/Brackets-Stripper-Redo"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 3524,
+      "owner": "github:hendrysadrak",
+      "versions": 1
+    },
+    {
+      "title": "Birds Of Paradise",
+      "name": "birds-of-paradise",
+      "description": "Birds of Paradise Theme",
+      "version": "1.1.0",
+      "author": {
+        "name": "Jonas Flint",
+        "email": "jonas@zerooneproductions.net",
+        "url": "http://jonasflint.com/"
+      },
+      "homepage": "https://github.com/jonasflint/brackets-BirdsOfParadise",
+      "repository": {
+        "type": "git",
+        "url": "git@github.com:jonasflint/brackets-BirdsOfParadise.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 1384,
+      "owner": "github:jonasflint",
+      "versions": 1
+    },
+    {
+      "name": "flat-attack-light-theme",
+      "title": "Flat Attack Light",
+      "description": "Light theme using flat colors for Brackets.",
+      "homepage": "https://github.com/ostranme/flat-attack-light",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mark Ostrander",
+        "url": "http://github.com/ostranme"
+      },
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/ostranme/flat-attack-light"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "brackets",
+        "flat",
+        "flat ui",
+        "light",
+        "extension"
+      ],
+      "totalDownloads": 2094,
+      "owner": "github:ostranme",
+      "versions": 1
+    },
+    {
+      "title": "truedesign Subtle Light",
+      "name": "truedesign.subtle.light",
+      "description": "Color Friendly",
+      "homepage": "https://www.behance.net/truedesign2",
+      "version": "1.3.0",
+      "author": {
+        "name": "gabriel.paunescu87@gmail.com>"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "light",
+        "theme",
+        "color",
+        "friendly",
+        "blue",
+        "truedesign"
+      ],
+      "totalDownloads": 3164,
+      "owner": "github:truedesign2",
+      "versions": 5
+    },
+    {
+      "name": "terere-theme",
+      "title": "Terere",
+      "description": "This terere is a theme for Brackets!",
+      "homepage": "https://github.com/ahlechandre/terere-theme",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alexandre Thebaldi",
+        "email": "ahlechandre@gmail.com",
+        "url": "http://github.com/ahlechandre"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 1112,
+      "owner": "github:ahlechandre/terere-theme",
+      "versions": 1
+    },
+    {
+      "title": "Ariane",
+      "name": "erknrio-ariane-theme",
+      "description": "Ariane, a beautiful purple theme for Brackets",
+      "version": "1.1.1",
+      "author": {
+        "name": "erknrio",
+        "url": "https://github.com/erknrio"
+      },
+      "homepage": "https://github.com/erknrio/ariane-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/erknrio/ariane-theme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "i18n": [
+        "en",
+        "es"
+      ],
+      "package-i18n": {
+        "es": {
+          "description": "Ariane, una bonita plantilla púrpura para Brackets."
+        }
+      },
+      "theme": {
+        "file": "ariane.less",
+        "dark": true
+      },
+      "keywords": [
+        "ariane, ariane theme, purple, purple theme, violet, violet theme, theme"
+      ],
+      "totalDownloads": 2210,
+      "owner": "github:erknrio",
+      "versions": 3
+    },
+    {
+      "name": "brackets-eclipse-theme",
+      "title": "Eclipse Theme Light",
+      "description": "Brackets port of Eclipse light theme",
+      "version": "1.0.0",
+      "homepage": "https://github.com/floatinghotpot/brackets-eclipse-theme",
+      "author": {
+        "name": "Raymond Xie",
+        "email": "rjfun.mobile@gmail.com"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "brackets",
+        "rjfun"
+      ],
+      "totalDownloads": 2172,
+      "owner": "github:floatinghotpot",
+      "versions": 1
+    },
+    {
+      "title": "Flat Zeedijk",
+      "name": "flat-zeedijk",
+      "description": "Light theme for Adobe Brackets",
+      "version": "0.1.0",
+      "author": {
+        "name": "Frédéric Serva",
+        "email": "fred.serva@gmail.com"
+      },
+      "homepage": "https://github.com/fredserva/flat-zeedijk",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/fredserva/flat-zeedijk.git"
+      },
+      "engines": {
+        "brackets": ">=0.44.0"
+      },
+      "theme": {
+        "file": "main.css",
+        "dark": false
+      },
+      "totalDownloads": 1310,
+      "owner": "github:fredserva",
+      "versions": 1
+    },
+    {
+      "name": "brackets-pryme",
+      "title": "Brackets Pryme Theme",
+      "version": "1.0.2",
+      "description": "Delicate and colourful theme which will make coding fun",
+      "homepage": "https://github.com/AriShPryme/brackets_pryme",
+      "author": {
+        "name": "AriSh",
+        "email": "arishpryme@gmail.com",
+        "url": "http://www.prymera.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "keywords": [
+        "brackets",
+        "pryme",
+        "theme",
+        "code",
+        "colourful",
+        "fun"
+      ],
+      "totalDownloads": 3625,
+      "owner": "github:AriShPryme",
+      "versions": 3
+    },
+    {
+      "name": "warapitiya.neptune",
+      "title": "Neptune",
+      "version": "1.0.0",
+      "homepage": "https://github.com/warapitiya/Neptune",
+      "description": "Take your code to another world.",
+      "keywords": [
+        "theme",
+        "neptune",
+        "dark",
+        "night"
+      ],
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "author": {
+        "name": "Malindu Warapitiya",
+        "email": "warapitiya93@gmail.com"
+      },
+      "license": "MIT",
+      "totalDownloads": 2008,
+      "owner": "github:warapitiya",
+      "versions": 1
+    },
+    {
+      "name": "solarized-dark-theme",
+      "title": "Solarized Dark",
+      "description": "Solarized Dark theme",
+      "homepage": "https://github.com/ShaneRamiah/DarkSolarizedBrackets",
+      "version": "1.1.0",
+      "author": {
+        "name": "Shane Ramiah"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "Solarized",
+        "Dark"
+      ],
+      "totalDownloads": 3676,
+      "owner": "github:ShaneRamiah",
+      "versions": 2
+    },
+    {
+      "title": "Pretty Light Theme (for Brackets)",
+      "name": "pretty-light-theme-by-mmk-jony",
+      "description": "A Pretty Light theme for Brackets, by MMK Jony. This theme is designed with some pretty color-scheme to make your code-editor much eye-friendly and readable.",
+      "keywords": [
+        "pretty",
+        "light",
+        "theme",
+        "brackets"
+      ],
+      "homepage": "https://github.com/mmkjony/prettyLight-brackets",
+      "license": "MIT",
+      "version": "1.0.0",
+      "author": {
+        "name": "MMK Jony",
+        "url": "https://github.com/mmkjony"
+      },
+      "engines": {
+        "brackets": ">=1.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "totalDownloads": 2069,
+      "owner": "github:mmkjony",
+      "versions": 1
+    },
+    {
+      "title": "Theme / Spring Light",
+      "name": "theme.spring.light",
+      "description": "A light theme with natural, fresh and readable palette. Best for PHP, JS, CSS",
+      "keywords": [
+        "light",
+        "theme",
+        "spring",
+        "css",
+        "php",
+        "js"
+      ],
+      "homepage": "https://github.com/MerryPanda/brackets-theme-spring-light",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/MerryPanda/brackets-theme-spring-light.git"
+      },
+      "bugs": {
+        "url": "https://github.com/MerryPanda/brackets-theme-spring-light/issues"
+      },
+      "author": {
+        "name": "MerryPanda",
+        "url": "https://github.com/MerryPanda"
+      },
+      "theme": {
+        "file": "theme.spring.light.less",
+        "dark": false
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "version": "0.8.2",
+      "totalDownloads": 3348,
+      "owner": "github:MerryPanda",
+      "versions": 3
+    },
+    {
+      "name": "manse.mannari",
+      "title": "mannari",
+      "description": "A phantom color scheme for Brackets.",
+      "homepage": "https://github.com/manse/brackets-mannari",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ryota Mannari",
+        "email": "info@manse.jp",
+        "url": "http://manse.github.io"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/manse/brackets-mannari"
+      },
+      "engines": {
+        "brackets": ">=1.3.0"
+      },
+      "keywords": [
+        "theme",
+        "monokai",
+        "dark",
+        "soda",
+        "sublime",
+        "text",
+        "fork",
+        "extension",
+        "mannari"
+      ],
+      "totalDownloads": 2340,
+      "owner": "github:manse",
+      "versions": 1
+    },
+    {
+      "name": "maityarkodeb.sand",
+      "title": "Sand",
+      "description": "A desert inspired theme for Brackets",
+      "homepage": "https://github.com/maityarkodeb/sand",
+      "version": "1.0.0",
+      "author": {
+        "name": "Arkodeb Maity",
+        "email": "maityarkodeb@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "sand"
+      ],
+      "totalDownloads": 1510,
+      "owner": "github:maityarkodeb",
+      "versions": 1
+    },
+    {
+      "name": "maityarkodeb.neon-highway",
+      "title": "Neon Highway",
+      "description": "A neon theme for Brackets",
+      "homepage": "https://github.com/maityarkodeb/neon-highway",
+      "version": "1.0.0",
+      "author": {
+        "name": "Arkodeb Maity",
+        "email": "maityarkodeb@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "neon",
+        "highway"
+      ],
+      "totalDownloads": 2209,
+      "owner": "github:maityarkodeb",
+      "versions": 1
+    },
+    {
+      "name": "rolando_zabala_ii-first_custom_theme",
+      "title": "Rolando Zabala II's Dark Theme",
+      "description": "A dark theme based on Brackets Default Dark Theme template",
+      "homepage": "https://github.com/rolo298github/first-custom-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Rolando Zabala II",
+        "email": "rzabala02@gmail.com",
+        "url": "https://github.com/rolo298github/first-custom-theme"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme, custom, dark-background, colorful-text,"
+      ],
+      "totalDownloads": 1720,
+      "owner": "github:rolo298github",
+      "versions": 1
+    },
+    {
+      "name": "fletcherhenneman.darkpanja",
+      "title": "DarkPanja",
+      "description": "A Dark Theme By Panja",
+      "homepage": "https://github.com/Coler234/DarkPanja",
+      "version": "1.0.0",
+      "author": {
+        "name": "Fletcher Henneman",
+        "email": "fhenneman@comcast.net",
+        "url": "https://github.com/Coler234/DarkPanja"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 2174,
+      "owner": "github:Coler234",
+      "versions": 1
+    },
+    {
+      "name": "com.mgenware.son-of-obsidian",
+      "title": "Son of Obsidian Theme",
+      "description": "A slightly modified version of original 'Son of Obsidian' theme for Visual Studio",
+      "homepage": "https://github.com/mgenware/brackets-son-of-obsidian-theme",
+      "version": "1.0.1",
+      "author": {
+        "name": "Mgen",
+        "url": "http://www.mgenware.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "Son of Obsidian",
+        "dark"
+      ],
+      "totalDownloads": 2661,
+      "owner": "github:mgenware",
+      "versions": 1
+    },
+    {
+      "name": "masoud.geditlover",
+      "title": "Gedit_Lover",
+      "description": "for gedit lovers and who don't just var_dump() anything they see, but use their imagination",
+      "homepage": "https://github.com/masoudVARdumper/Gedit_Lovers",
+      "version": "1.0.0",
+      "author": {
+        "name": "Masoud Valizadeh",
+        "email": "valizadehmasoudg@gmail.com",
+        "url": "https://github.com/masoudVARdumper/Gedit_Lovers.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.3.0-16022"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme, dark, gedit"
+      ],
+      "totalDownloads": 954,
+      "owner": "github:johnluckbolzano",
+      "versions": 1
+    },
+    {
+      "title": "PH easy dark",
+      "name": "brackets-ph-easy-dark-theme",
+      "description": "The Modified version of JetBrains WebStorm theme, more easy, more minimal.",
+      "homepage": "https://github.com/Pooria-H/Brackets-PH-easy-dark-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Pooria Han",
+        "email": "poooriah@gmail.com",
+        "url": "http://pooriahan.name"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 1810,
+      "owner": "github:Pooria-H",
+      "versions": 1
+    },
+    {
+      "name": "dark-deluxe-theme",
+      "title": "Dark Deluxe Theme",
+      "description": "Dark flat theme that's great for all nighters. Easy on the eyes and looks awesome!",
+      "homepage": "https://github.com/ChynoDeluxe/dark-deluxe-theme",
+      "version": "1.0.3",
+      "author": {
+        "name": "Chyno Deluxe",
+        "email": "chynodeluxe@gmail.com",
+        "url": "https://github.com/ChynoDeluxe/"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.24.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "Chyno Deluxe",
+        "Dark Deluxe",
+        "theme",
+        "flat",
+        "dark",
+        "highlighting",
+        "syntax"
+      ],
+      "totalDownloads": 7962,
+      "owner": "github:ChynoDeluxe",
+      "versions": 4
+    },
+    {
+      "name": "lzia.lunies",
+      "title": "Lunies",
+      "description": "A flat theme, inspired by the night colors.",
+      "homepage": "https://github.com/lzia/lunies",
+      "version": "0.0.2",
+      "author": {
+        "name": "Lucas Liza",
+        "email": "lucaslizza@gmail.com",
+        "url": "http://github.com/lzia"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark theme",
+        "flat"
+      ],
+      "totalDownloads": 1475,
+      "owner": "github:lzia",
+      "versions": 2
+    },
+    {
+      "title": "Monokromatik-green",
+      "name": "monokromatik-green",
+      "description": "This dark monochrome green theme is based on the monochrome monitors used from 1960's-1980's",
+      "version": "1.0.0",
+      "author": {
+        "name": "Derek Skinner",
+        "url": "http://derekskinner.tv/"
+      },
+      "homepage": "https://github.com/derek-skinner/monokromatik-green_theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/derek-skinner/monokromatik-green_theme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 1050,
+      "owner": "github:derek-skinner",
+      "versions": 1
+    },
+    {
+      "title": "Monokromatik-blue",
+      "name": "monokromatik-blue",
+      "description": "A dark blue variation of the original Monokromatik-green theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Derek Skinner",
+        "url": "http://derekskinner.tv/"
+      },
+      "homepage": "https://github.com/derek-skinner/monokromatik-blue_theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/derek-skinner/monokromatik-blue_theme.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "theme": {
+        "file": "theme.css",
+        "dark": true
+      },
+      "totalDownloads": 1279,
+      "owner": "github:derek-skinner",
+      "versions": 1
+    },
+    {
+      "name": "kornelceglarek.bluee",
+      "title": "Bluee",
+      "description": "Pretty Brackets theme.",
+      "homepage": "#",
+      "version": "1.0.0",
+      "author": {
+        "name": "Kornel Ceglarek",
+        "email": "kornel.ceglarek@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "bluee.css",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 1404,
+      "owner": "github:korneldev",
+      "versions": 1
+    },
+    {
+      "name": "mynimi.gemstones-theme",
+      "title": "Gemstones Theme",
+      "description": "Dark Theme with calm, cool-toned colors, that don't hurt your eyes.",
+      "homepage": "https://github.com/mynimi/gemstones-brackets-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Myriam",
+        "email": "myriame@halfapx.com",
+        "url": "http://halfapx.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "dark",
+        "highlighting",
+        "syntax",
+        "calm",
+        "cool"
+      ],
+      "totalDownloads": 1846,
+      "owner": "github:mynimi",
+      "versions": 1
+    },
+    {
+      "name": "explicit-brackets-style",
+      "title": "Explicit",
+      "description": "Dark theme using in-your-face colors for expressive code presentation.",
+      "homepage": "https://github.com/Devilly/explicit-brackets-style",
+      "version": "0.0.2",
+      "author": {
+        "name": "Devilly"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "totalDownloads": 1828,
+      "owner": "github:Devilly",
+      "versions": 2
+    },
+    {
+      "name": "stephen.epic-night",
+      "title": "Epic Night",
+      "description": "Have an Epic Night with the epic night theme.",
+      "homepage": "https://github.com/StephenSantilli9/Brackets-Epic-Night-Theme.git",
+      "version": "1.0.0",
+      "author": {
+        "name": "Stephen Santilli",
+        "email": "stephensantilli09@gmail.com",
+        "url": "https://github.com/StephenSantilli9/Brackets-Epic-Night-Theme.git"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "dark",
+        "epic",
+        "night"
+      ],
+      "totalDownloads": 2535,
+      "owner": "github:StephenSantilli9",
+      "versions": 1
+    },
+    {
+      "name": "stephen.epic-light",
+      "title": "Epic Light",
+      "description": "Have an epic day with the Epic Light theme, a nice and elegant light theme.",
+      "homepage": "https://github.com/StephenSantilli9/Epic-Light-Theme.git",
+      "version": "2.0.0",
+      "author": {
+        "name": "Stephen Santilli",
+        "email": "stephensantilli09@gmail.com",
+        "url": "https://github.com/StephenSantilli9/Epic-Light-Theme.git"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.css",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "light",
+        "epic",
+        "light",
+        "epiclight"
+      ],
+      "totalDownloads": 2104,
+      "owner": "github:StephenSantilli9",
+      "versions": 2
+    },
+    {
+      "name": "somethingblue",
+      "title": "somethingBlue",
+      "description": "A blueprint like theme for developers",
+      "homepage": "https://github.com/macrue/somethingBlue",
+      "version": "1.0.0",
+      "author": {
+        "name": "Angus MacRae",
+        "url": "https://github.com/macrue"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "main.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "blueprint",
+        "something",
+        "blue",
+        "theme"
+      ],
+      "totalDownloads": 988,
+      "owner": "github:macrue",
+      "versions": 1
+    },
+    {
+      "name": "brackets-theme-darktooth",
+      "title": "Darktooth",
+      "description": "Port of the Emacs Darktooth theme to Brackets",
+      "homepage": "https://github.com/Poorchop/darktooth-theme-ports/tree/master/brackets-theme-darktooth",
+      "version": "0.1.0",
+      "author": {
+        "name": "Poorchop",
+        "url": "https://github.com/Poorchop"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "darktooth.less",
+        "dark": true
+      },
+      "keywords": [
+        "darktooth",
+        "theme",
+        "dark"
+      ],
+      "categories": [
+        "visual"
+      ],
+      "totalDownloads": 1541,
+      "owner": "github:Poorchop",
+      "versions": 1
+    },
+    {
+      "name": "dustindowell.neon-morning",
+      "title": "Neon Morning",
+      "description": "Like Neon, but more upbeat and happy. Themed Code Folding and CSS Color Preview.",
+      "homepage": "https://github.com/dustindowell22/neon-morning-brackets-theme",
+      "version": "1.0.1",
+      "author": {
+        "name": "Dustin Dowell",
+        "url": "https://github.com/dustindowell22"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "neon",
+        "morning",
+        "dark"
+      ],
+      "totalDownloads": 1957,
+      "owner": "github:dustindowell22",
+      "versions": 2
+    },
+    {
+      "title": "Guacamayo",
+      "name": "guacamayo-dark",
+      "description": "Readable and high-contrast dark theme for brackets",
+      "version": "0.1.0",
+      "author": {
+        "name": "blonfu",
+        "email": "jansed@gmail.com"
+      },
+      "homepage": "https://github.com/blonfu/guacamayo-theme-brackets",
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "totalDownloads": 1698,
+      "owner": "github:blonfu",
+      "versions": 1
+    },
+    {
+      "title": "One Dark Theme",
+      "name": "brackets.one.dark",
+      "description": "GitHub Atom editor One Dark theme, ported for Brackets",
+      "version": "0.0.2",
+      "author": {
+        "name": "Hikio",
+        "url": "http://hik.io"
+      },
+      "homepage": "https://github.com/hikio/brackets-one-dark",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/hikio/brackets-one-dark.git"
+      },
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "screenshot.png",
+      "totalDownloads": 4906,
+      "owner": "github:hikio",
+      "versions": 2
+    },
+    {
+      "name": "neats29.deep-blue",
+      "version": "1.2.0",
+      "title": "Deep Blue Brackets Theme",
+      "description": "A theme for the Adobe Brackets text editor.",
+      "main": "index.js",
+      "homepage": "https://github.com/Neats29/theme",
+      "keywords": [
+        "adobe brackets",
+        "brackets theme",
+        "brackets themes"
+      ],
+      "author": {
+        "name": "Neats29",
+        "url": "https://github.com/neats29"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "bugs": {
+        "url": "https://github.com/Neats29/theme/issues"
+      },
+      "totalDownloads": 2341,
+      "owner": "github:Neats29",
+      "versions": 2
+    },
+    {
+      "name": "stephen.epic-green",
+      "title": "Epic Green",
+      "description": "A very nice and pretty green dark Brackets theme that is easy on the eyes.",
+      "homepage": "https://github.com/StephenSantilli9/Brackets-Epic-Green-Theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Stephen Santilli",
+        "email": "stephensantilli09@gmail.com",
+        "url": "https://github.com/StephenSantilli9"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "dark",
+        "epic",
+        "green"
+      ],
+      "totalDownloads": 2092,
+      "owner": "github:StephenSantilli9",
+      "versions": 1
+    },
+    {
+      "name": "fthiagogv.naturegreen-dark-syntax",
+      "title": "Naturegreen Dark",
+      "theme": "syntax",
+      "version": "0.0.2",
+      "author": {
+        "name": "Thiago Gomes",
+        "email": "ftgomesvieira@outlook.com"
+      },
+      "description": "Nature green syntax theme is a fork of One-dark-syntax. Colors were changed to the green colors affinities.",
+      "keywords": [
+        "nature",
+        "green",
+        "dark",
+        "syntax"
+      ],
+      "repository": "https://github.com/fthiagogv/naturegreen-dark-syntax",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 < 2.0.0"
+      },
+      "totalDownloads": 1482,
+      "owner": "github:fthiagogv",
+      "versions": 1
+    },
+    {
+      "name": "mynimi.gemstones-theme-light",
+      "title": "Gemstones Theme Light",
+      "description": "Light Theme with calm, cool-toned colors, that don't hurt your eyes.",
+      "homepage": "https://github.com/mynimi/gemstones-light-brackets-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Myriam",
+        "email": "myriame@halfapx.com",
+        "url": "http://halfapx.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "light",
+        "highlighting",
+        "syntax",
+        "calm",
+        "cool"
+      ],
+      "totalDownloads": 1484,
+      "owner": "github:mynimi",
+      "versions": 1
+    },
+    {
+      "name": "os-x-style-dark-theme",
+      "title": "OS X Style - Flat & Dark",
+      "description": "Dark and flat style theme for Brackets. Created with color palette of iOS 7 and inspired by Flat Attack theme.",
+      "homepage": "https://github.com/aydieneue/",
+      "version": "1.0.0",
+      "author": {
+        "name": "Altay Aydemir"
+      },
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/aydieneue/"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "engines": {
+        "brackets": ">=1.0.0"
+      },
+      "keywords": [
+        "theme",
+        "brackets",
+        "flat",
+        "flat ui",
+        "dark",
+        "extension"
+      ],
+      "totalDownloads": 4958,
+      "owner": "github:aydieneue",
+      "versions": 1
+    },
+    {
+      "title": "Subtly Light",
+      "name": "subtly-light-theme",
+      "description": "A subtly colored light theme. Designed for legibility, quick reference and comfort.",
+      "keywords": [
+        "subtle",
+        "light",
+        "theme",
+        "brackets"
+      ],
+      "license": "MIT",
+      "version": "1.0.3",
+      "author": {
+        "name": "Jay Boucher",
+        "url": "https://jayboucher.com"
+      },
+      "engines": {
+        "brackets": ">=1.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false
+      },
+      "totalDownloads": 2041,
+      "owner": "github:JayBoucher",
+      "versions": 4
+    },
+    {
+      "name": "dark-conrtrast-theme",
+      "title": "Dark Contrast Theme",
+      "description": "Easy to see what is what and what you've done wrong!",
+      "version": "1.0.3",
+      "author": {
+        "name": "Aloup Shmederheisen",
+        "email": "ashmederheisen@gmail.com",
+        "url": "https://github.com/Aardwolf95/"
+      },
+      "engines": {
+        "brackets": ">=0.24.0"
+      },
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "Aloup Shmederheisen",
+        "Dark Contrast",
+        "theme",
+        "dark",
+        "highlighting",
+        "syntax"
+      ],
+      "totalDownloads": 2601,
+      "owner": "github:Aardwolf95",
+      "versions": 1
+    },
+    {
+      "title": "Ceratrior II (inspired by Material design)",
+      "name": "ceratrior2-material",
+      "description": "Material dark theme(beta) for Brackets.",
+      "homepage": "https://github.com/voronar/ceratrior2-material",
+      "version": "0.0.2",
+      "author": {
+        "name": "Kirill A. Khalitov voronar@gmail.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "ceratrior2.css",
+        "dark": true
+      },
+      "totalDownloads": 1472,
+      "owner": "github:Voronar",
+      "versions": 1
+    },
+    {
+      "name": "raven",
+      "title": "Raven",
+      "description": "Dark color scheme based on Dreamweavers Raven theme",
+      "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
+      "version": "1.0.2",
+      "author": {
+        "name": "Justin Truax",
+        "url": "http://justintruax.com"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "dreamweaver",
+        "raven",
+        "dark",
+        "theme",
+        "flat",
+        "highlighting"
+      ],
+      "totalDownloads": 3089,
+      "owner": "github:JTruax",
+      "versions": 3
+    },
+    {
+      "title": "New Moon",
+      "name": "new-moon",
+      "description": "New Moon Theme",
+      "version": "1.0.9",
+      "author": {
+        "name": "Tania Rascia",
+        "email": "taniarascia@gmail.com",
+        "url": "http://www.taniarascia.com"
+      },
+      "homepage": "https://github.com/taniarascia/new-moon",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/taniarascia/new-moon.git"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "images/screenshot.png",
+      "totalDownloads": 2097,
+      "owner": "github:taniarascia",
+      "versions": 4
+    },
+    {
+      "name": "simple-blue-theme",
+      "title": "simple-blue-theme",
+      "description": "A simple theme to make coding easier with emphasis in color blue.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alonso Zamorano"
+      },
+      "homepage": "https://github.com/600F1/simple-blue-theme",
+      "license": "MIT",
+      "theme": {
+        "file": "simple-blue-theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 454,
+      "owner": "github:600F1",
+      "versions": 1
+    },
+    {
+      "title": "New One Dark",
+      "name": "new-one-dark-theme",
+      "description": "Inspired by the One Dark Theme from Atom Editor",
+      "version": "1.1.0",
+      "author": {
+        "name": "moritzw1",
+        "url": "https://github.com/moritzw1"
+      },
+      "homepage": "https://github.com/moritzw1/one-dark-theme-for-brackets",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/moritzw1/one-dark-theme-for-brackets.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "totalDownloads": 2486,
+      "owner": "github:moritzw1",
+      "versions": 3
+    },
+    {
+      "title": "Smooth Neutrals",
+      "name": "smooth-neutrals-theme",
+      "description": "Modified Son of Hammsidian Theme. Support for wangling in the colors of Jeff Booher's Bookmarks Extension to better fit the Smooth Neutrals theme.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Gregory Smith"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/gregorytoddsmith/smooth-neutrals-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/gregorytoddsmith/smooth-neutrals-theme"
+      },
+      "keywords": [
+        "themes",
+        "smooth",
+        "neutral",
+        "neutrals"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "smooth-neutrals.css",
+        "dark": true
+      },
+      "totalDownloads": 286,
+      "owner": "github:gregorytoddsmith",
+      "versions": 1
+    },
+    {
+      "title": "Brackets Fusion",
+      "name": "brackets-fusion-theme",
+      "description": "Based on Smooth Neutrals Theme. Support for wangling in the colors of Jeff Booher's Bookmarks Extension.",
+      "version": "1.3.5",
+      "author": {
+        "name": "Max Graey maxgraey@gmail.com",
+        "url": "https://github.com/MaxGraey"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/maxgraey/brackets-fusion-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/maxgraey/brackets-fusion-theme"
+      },
+      "keywords": [
+        "themes",
+        "fusion",
+        "neutral",
+        "grey",
+        "flat",
+        "neutral"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "brackets-fusion-theme.less",
+        "dark": true
+      },
+      "totalDownloads": 2122,
+      "owner": "github:MaxGraey",
+      "versions": 16
+    },
+    {
+      "name": "mrdollywaggit.encode",
+      "title": "Encode",
+      "description": "A design-oriented theme that doesn't hurt your brain.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr. Dollywaggit"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "design",
+        "clean",
+        "simple",
+        "light",
+        "candy",
+        "beautiful",
+        "themes",
+        "brackets"
+      ],
+      "totalDownloads": 674,
+      "owner": "github:MrDollywaggit",
+      "versions": 1
+    },
+    {
+      "name": "ethereal-theme",
+      "title": "Theme Ethereal",
+      "description": "An immortal theme for the Brackets IDE, easy on the eyes (and conscience).",
+      "homepage": "https://github.com/MJefferson/brackets-ethereal-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Martial James Jefferson",
+        "email": "martial.jefferson@gmail.com",
+        "url": "http://mjefferson.github.io"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 433,
+      "owner": "github:MJefferson",
+      "versions": 1
+    },
+    {
+      "name": "dark-proton-theme",
+      "title": "Dark Proton Theme",
+      "description": "Save your eyes, best theme for night-works.",
+      "homepage": "https://github.com/shohan4556/dark-proton",
+      "version": "1.0.0",
+      "author": {
+        "name": "shohan4556",
+        "url": "https://github.com/shohan4556"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "dark-proton",
+        "theme",
+        "dark",
+        "save-eyes",
+        "night-work"
+      ],
+      "categories": [
+        "visual"
+      ],
+      "totalDownloads": 80,
+      "owner": "github:shohan4556",
+      "versions": 1
+    }
+  ]
+}
