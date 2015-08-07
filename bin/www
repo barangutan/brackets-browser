@@ -32,14 +32,12 @@ tasks.downloadRegistry(function(err, filename) {
         logger.info('Registry created (%s)', filename);
         
         tasks.buildDatabase(function(err, msg) {
-            logger.info('Theme database built (%s extensions)', msg);
+            logger.info('Theme database built (%s, themes:extensions)', msg);
             
             server.listen(port);
             server.on('error', onError);
             server.on('listening', onListening);
         });
-        
-        
     }
 });
 
