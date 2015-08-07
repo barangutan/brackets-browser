@@ -19,11 +19,13 @@
     "less-middleware": "^1.0.4",
     "lodash": "^3.10.0",
     "lowdb": "^0.10.2",
+    "moment": "^2.10.6",
     "morgan": "~1.6.1",
     "node-schedule": "^0.2.9",
     "octonode": "^0.7.1",
     "request": "^2.60.0",
     "serve-favicon": "~2.3.0",
+    "winston": "^1.0.1",
     "xtend": "^4.0.0"
   }
 }

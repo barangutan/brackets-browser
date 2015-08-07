@@ -22,8 +22,9 @@
         "file": "808.css",
         "dark": true
       },
-      "totalDownloads": 4030,
-      "saved": true
+      "totalDownloads": 4150,
+      "owner": "github:larz0",
+      "versions": 4
     },
     {
       "title": "Zamiere Dark",
@@ -47,8 +48,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7296,
-      "saved": true
+      "totalDownloads": 7497,
+      "owner": "github:MiguelCastillo",
+      "versions": 2
     },
     {
       "title": "Visual Studio Theme",
@@ -69,7 +71,9 @@
       },
       "theme": "visual-studio.css",
       "screenshot": "screenshot.png",
-      "totalDownloads": 9236
+      "totalDownloads": 9451,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
     },
     {
       "title": "Earth",
@@ -93,8 +97,9 @@
         "dark": true
       },
       "screenshot": "JS.png",
-      "totalDownloads": 16674,
-      "saved": true
+      "totalDownloads": 16865,
+      "owner": "github:Denisov21",
+      "versions": 12
     },
     {
       "title": "Railcasts",
@@ -119,8 +124,9 @@
         "dark": true
       },
       "screenshot": "railcasts_php.png",
-      "totalDownloads": 4975,
-      "saved": true
+      "totalDownloads": 5132,
+      "owner": "github:mackenza",
+      "versions": 7
     },
     {
       "title": "Ruby Blue",
@@ -152,8 +158,9 @@
         "dark": true
       },
       "screenshot": "ss/rb-js.PNG",
-      "totalDownloads": 15564,
-      "saved": true
+      "totalDownloads": 15756,
+      "owner": "github:wormeyman",
+      "versions": 14
     },
     {
       "title": "Envy",
@@ -178,8 +185,9 @@
         "dark": true
       },
       "screenshot": "envy-screenshot-js.png",
-      "totalDownloads": 3356,
-      "saved": true
+      "totalDownloads": 3450,
+      "owner": "github:mackenza",
+      "versions": 6
     },
     {
       "title": "Monokai",
@@ -204,8 +212,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 38662,
-      "saved": true
+      "totalDownloads": 39698,
+      "owner": "github:sbruchmann",
+      "versions": 10
     },
     {
       "title": "Enlightend",
@@ -230,8 +239,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 2380,
-      "saved": true
+      "totalDownloads": 2416,
+      "owner": "github:sprintr",
+      "versions": 2
     },
     {
       "title": "Tomorrow Night",
@@ -256,8 +266,9 @@
         "dark": true
       },
       "screenshot": "tomorrow-night-screenshot-css.png",
-      "totalDownloads": 7099,
-      "saved": true
+      "totalDownloads": 7306,
+      "owner": "github:ryanstewart",
+      "versions": 2
     },
     {
       "title": "80's Baby",
@@ -281,8 +292,9 @@
         "file": "80sbaby.css",
         "dark": true
       },
-      "totalDownloads": 5787,
-      "saved": true
+      "totalDownloads": 5969,
+      "owner": "github:larz0",
+      "versions": 8
     },
     {
       "title": "Visual Studio",
@@ -305,8 +317,9 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7227,
-      "saved": true
+      "totalDownloads": 7481,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
     },
     {
       "title": "Solarized",
@@ -329,8 +342,9 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4723,
-      "saved": true
+      "totalDownloads": 4860,
+      "owner": "github:MiguelCastillo",
+      "versions": 2
     },
     {
       "title": "The Hamptons",
@@ -354,8 +368,9 @@
         "file": "thehamptons.css",
         "dark": false
       },
-      "totalDownloads": 3237,
-      "saved": true
+      "totalDownloads": 3293,
+      "owner": "github:larz0",
+      "versions": 5
     },
     {
       "title": "Easy Dark",
@@ -379,8 +394,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 9145,
-      "saved": true
+      "totalDownloads": 9426,
+      "owner": "github:MiguelCastillo",
+      "versions": 7
     },
     {
       "name": "brackets-mystique-theme",
@@ -412,7 +428,9 @@
       "categories": [
         "visual"
       ],
-      "totalDownloads": 16524
+      "totalDownloads": 16675,
+      "owner": "github:morrisallison",
+      "versions": 9
     },
     {
       "title": "Skullomania",
@@ -436,8 +454,9 @@
         "file": "skullomania.css",
         "dark": true
       },
-      "totalDownloads": 3722,
-      "saved": true
+      "totalDownloads": 3818,
+      "owner": "github:larz0",
+      "versions": 4
     },
     {
       "title": "Monokai Dark Soda",
@@ -472,8 +491,9 @@
         "extension",
         "css"
       ],
-      "totalDownloads": 57238,
-      "saved": true
+      "totalDownloads": 59419,
+      "owner": "github:rainje",
+      "versions": 8
     },
     {
       "name": "zenburn-theme",
@@ -492,8 +512,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 7171,
-      "saved": true
+      "totalDownloads": 7297,
+      "owner": "github:chechnyan",
+      "versions": 5
     },
     {
       "name": "solarized-light-theme",
@@ -512,7 +533,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3587
+      "totalDownloads": 3671,
+      "owner": "github:chechnyan",
+      "versions": 2
     },
     {
       "title": "LightSoda",
@@ -535,8 +558,9 @@
         "file": "light-soda.css"
       },
       "screenshot": "CSS.png",
-      "totalDownloads": 9624,
-      "saved": true
+      "totalDownloads": 9791,
+      "owner": "github:Denisov21",
+      "versions": 6
     },
     {
       "title": "Star Platinum Dark",
@@ -560,8 +584,9 @@
         "file": "starplatinumdark.css",
         "dark": true
       },
-      "totalDownloads": 4245,
-      "saved": true
+      "totalDownloads": 4327,
+      "owner": "github:larz0",
+      "versions": 4
     },
     {
       "title": "Star Platinum Light",
@@ -585,8 +610,9 @@
         "file": "starplatinumlight.css",
         "dark": false
       },
-      "totalDownloads": 3583,
-      "saved": true
+      "totalDownloads": 3641,
+      "owner": "github:larz0",
+      "versions": 5
     },
     {
       "title": "Delkos Dark Theme",
@@ -609,8 +635,9 @@
         "file": "delkos.css",
         "dark": true
       },
-      "totalDownloads": 5663,
-      "saved": true
+      "totalDownloads": 5951,
+      "owner": "github:David5i6",
+      "versions": 2
     },
     {
       "title": "Material Dark",
@@ -637,7 +664,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 6449
+      "totalDownloads": 6717,
+      "owner": "github:ivarcia",
+      "versions": 1
     },
     {
       "title": "Material Light",
@@ -664,7 +693,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4337
+      "totalDownloads": 4482,
+      "owner": "github:ivarcia",
+      "versions": 1
     },
     {
       "name": "ant7.ant-theme",
@@ -692,8 +723,9 @@
         "dark",
         "theme"
       ],
-      "totalDownloads": 11996,
-      "saved": true
+      "totalDownloads": 12150,
+      "owner": "github:ant7",
+      "versions": 7
     },
     {
       "title": "Dieter Bamz",
@@ -717,8 +749,9 @@
         "file": "dieterbamz.css",
         "dark": false
       },
-      "totalDownloads": 2554,
-      "saved": true
+      "totalDownloads": 2627,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Photon Racer",
@@ -742,8 +775,9 @@
         "file": "photonracer.css",
         "dark": true
       },
-      "totalDownloads": 3486,
-      "saved": true
+      "totalDownloads": 3566,
+      "owner": "github:larz0",
+      "versions": 5
     },
     {
       "title": "MBO Theme",
@@ -767,14 +801,15 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4809,
-      "saved": true
+      "totalDownloads": 4908,
+      "owner": "github:birdwing",
+      "versions": 7
     },
     {
       "title": "DarkSoda",
       "name": "dark_soda_theme",
       "description": "The DarkSoda is a Theme for Brackets!",
-      "version": "1.0.6",
+      "version": "0.1.6",
       "author": {
         "name": "Denisov21"
       },
@@ -791,9 +826,9 @@
         "file": "dark-soda.css",
         "dark": true
       },
-      "totalDownloads": 26610,
-      "compiled": true,
-      "saved": true
+      "totalDownloads": 27217,
+      "owner": "github:Denisov21",
+      "versions": 9
     },
     {
       "title": "Thunderstorm",
@@ -816,8 +851,9 @@
         "file": "theme.less",
         "dark": true
       },
-      "totalDownloads": 3223,
-      "saved": true
+      "totalDownloads": 3283,
+      "owner": "github:recked",
+      "versions": 2
     },
     {
       "title": "Son of Hammsidian",
@@ -846,8 +882,9 @@
         "file": "son_of_hammsidian.css",
         "dark": true
       },
-      "totalDownloads": 2476,
-      "saved": true
+      "totalDownloads": 2521,
+      "owner": "github:georapbox",
+      "versions": 2
     },
     {
       "title": "Twilight",
@@ -871,8 +908,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 3774,
-      "saved": true
+      "totalDownloads": 3895,
+      "owner": "github:MiguelCastillo",
+      "versions": 1
     },
     {
       "title": "Quick Dark",
@@ -904,8 +942,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.6",
-      "totalDownloads": 31353,
-      "saved": true
+      "totalDownloads": 32097,
+      "owner": "github:cheesypoof",
+      "versions": 18
     },
     {
       "name": "circlewaves.darcula-theme",
@@ -929,7 +968,9 @@
       "keywords": [
         "dark"
       ],
-      "totalDownloads": 3897
+      "totalDownloads": 3978,
+      "owner": "github:circlewaves",
+      "versions": 1
     },
     {
       "title": "Guardians",
@@ -953,8 +994,9 @@
         "file": "guardians.css",
         "dark": true
       },
-      "totalDownloads": 2655,
-      "saved": true
+      "totalDownloads": 2718,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Quick Light",
@@ -986,8 +1028,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.6",
-      "totalDownloads": 18068,
-      "saved": true
+      "totalDownloads": 18556,
+      "owner": "github:cheesypoof",
+      "versions": 16
     },
     {
       "name": "soft-dark",
@@ -1013,8 +1056,9 @@
         "soft",
         "soft-dark"
       ],
-      "totalDownloads": 4858,
-      "saved": true
+      "totalDownloads": 4950,
+      "owner": "github:ruiafonsopereira",
+      "versions": 4
     },
     {
       "title": "The Weaver",
@@ -1038,8 +1082,9 @@
         "file": "theweaver.css",
         "dark": true
       },
-      "totalDownloads": 2149,
-      "saved": true
+      "totalDownloads": 2202,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Care Bear Stare",
@@ -1063,8 +1108,9 @@
         "file": "carebearstare.css",
         "dark": false
       },
-      "totalDownloads": 2473,
-      "saved": true
+      "totalDownloads": 2547,
+      "owner": "github:larz0",
+      "versions": 3
     },
     {
       "title": "Care Bear Stare Dark",
@@ -1088,8 +1134,9 @@
         "file": "carebearstaredark.css",
         "dark": true
       },
-      "totalDownloads": 2472,
-      "saved": true
+      "totalDownloads": 2538,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Dune",
@@ -1113,8 +1160,9 @@
         "file": "dune.css",
         "dark": false
       },
-      "totalDownloads": 4078,
-      "saved": true
+      "totalDownloads": 4193,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Energy",
@@ -1138,8 +1186,9 @@
         "file": "energy.css",
         "dark": true
       },
-      "totalDownloads": 3605,
-      "saved": true
+      "totalDownloads": 3726,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Coolwater",
@@ -1163,8 +1212,9 @@
         "file": "coolwater.css",
         "dark": false
       },
-      "totalDownloads": 4435,
-      "saved": true
+      "totalDownloads": 4534,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Atom Dark Theme",
@@ -1188,8 +1238,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 12351,
-      "saved": true
+      "totalDownloads": 12493,
+      "owner": "github:yasinkuyu",
+      "versions": 3
     },
     {
       "title": "Atom Light Theme",
@@ -1212,8 +1263,9 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7021,
-      "saved": true
+      "totalDownloads": 7109,
+      "owner": "github:yasinkuyu",
+      "versions": 3
     },
     {
       "title": "Snagglepanther",
@@ -1237,8 +1289,9 @@
         "file": "snagglepanther.css",
         "dark": false
       },
-      "totalDownloads": 1860,
-      "saved": true
+      "totalDownloads": 1901,
+      "owner": "github:larz0",
+      "versions": 2
     },
     {
       "title": "Lion",
@@ -1262,8 +1315,9 @@
         "file": "lion.css",
         "dark": true
       },
-      "totalDownloads": 7755,
-      "saved": true
+      "totalDownloads": 8087,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Northstar",
@@ -1287,8 +1341,9 @@
         "file": "northstar.css",
         "dark": true
       },
-      "totalDownloads": 2415,
-      "saved": true
+      "totalDownloads": 2465,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "name": "nico.slickrock",
@@ -1309,8 +1364,9 @@
         "dark",
         "flat"
       ],
-      "totalDownloads": 2827,
-      "saved": true
+      "totalDownloads": 2860,
+      "owner": "github:NicoM1",
+      "versions": 1
     },
     {
       "title": "Machiato Libre",
@@ -1333,8 +1389,9 @@
         "file": "machiato.css",
         "dark": true
       },
-      "totalDownloads": 2411,
-      "saved": true
+      "totalDownloads": 2444,
+      "owner": "github:cpeddecord",
+      "versions": 2
     },
     {
       "title": "Midnight Glow",
@@ -1358,8 +1415,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 4145,
-      "saved": true
+      "totalDownloads": 4204,
+      "owner": "github:notasz",
+      "versions": 3
     },
     {
       "title": "Notepad++ Theme",
@@ -1386,8 +1444,9 @@
         "file": "notepadplus.css",
         "dark": true
       },
-      "totalDownloads": 4927,
-      "saved": true
+      "totalDownloads": 5033,
+      "owner": "github:EssamManzilak",
+      "versions": 1
     },
     {
       "title": "Tomorrow Night Bright",
@@ -1412,7 +1471,9 @@
         "dark": true
       },
       "screenshot": "tomorrow-night-bright-screenshot-html.png",
-      "totalDownloads": 2927
+      "totalDownloads": 2997,
+      "owner": "github:gbraad",
+      "versions": 1
     },
     {
       "name": "pythonista-dark",
@@ -1432,7 +1493,9 @@
         "theme",
         "dark"
       ],
-      "totalDownloads": 2781
+      "totalDownloads": 2835,
+      "owner": "github:wendrom",
+      "versions": 1
     },
     {
       "title": "Jellybeans",
@@ -1455,8 +1518,9 @@
         "dark": true
       },
       "screenshot": "jellybeans.png",
-      "totalDownloads": 8375,
-      "saved": true
+      "totalDownloads": 8440,
+      "owner": "github:jsbalrog",
+      "versions": 6
     },
     {
       "name": "kmelkon.seti-syntax",
@@ -1477,8 +1541,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3197,
-      "saved": true
+      "totalDownloads": 3284,
+      "owner": "github:kmelkon",
+      "versions": 1
     },
     {
       "title": "Mushin Dark",
@@ -1502,8 +1567,9 @@
         "file": "mushindark.css",
         "dark": true
       },
-      "totalDownloads": 3215,
-      "saved": true
+      "totalDownloads": 3273,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Mushin Light",
@@ -1527,8 +1593,9 @@
         "file": "mushinlight.css",
         "dark": false
       },
-      "totalDownloads": 2382,
-      "saved": true
+      "totalDownloads": 2432,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Nature",
@@ -1552,8 +1619,9 @@
         "file": "nature.css",
         "dark": true
       },
-      "totalDownloads": 9683,
-      "saved": true
+      "totalDownloads": 9805,
+      "owner": "github:Denisov21",
+      "versions": 5
     },
     {
       "name": "kmelkon.material-brackets",
@@ -1574,8 +1642,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5143,
-      "saved": true
+      "totalDownloads": 5280,
+      "owner": "github:kmelkon",
+      "versions": 1
     },
     {
       "title": "Son of Monokai",
@@ -1604,8 +1673,9 @@
         "theme",
         "dark"
       ],
-      "totalDownloads": 12050,
-      "saved": true
+      "totalDownloads": 12243,
+      "owner": "github:Mikea15",
+      "versions": 3
     },
     {
       "name": "vtrrsl.lapland",
@@ -1626,8 +1696,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3766,
-      "saved": true
+      "totalDownloads": 3801,
+      "owner": "github:vtrrsl",
+      "versions": 1
     },
     {
       "name": "spissl.obsidian",
@@ -1650,8 +1721,9 @@
       "keywords": [
         "obsidian, theme"
       ],
-      "totalDownloads": 7588,
-      "saved": true
+      "totalDownloads": 7653,
+      "owner": "github:LegibleEel",
+      "versions": 3
     },
     {
       "name": "solarized-light",
@@ -1676,8 +1748,9 @@
         "Solarized",
         "Light"
       ],
-      "totalDownloads": 4544,
-      "saved": true
+      "totalDownloads": 4644,
+      "owner": "github:astronomerdamo",
+      "versions": 1
     },
     {
       "name": "solarized-dark",
@@ -1702,8 +1775,9 @@
         "Solarized",
         "Dark"
       ],
-      "totalDownloads": 6873,
-      "saved": true
+      "totalDownloads": 6961,
+      "owner": "github:astronomerdamo",
+      "versions": 1
     },
     {
       "title": "Monokai Redux",
@@ -1731,8 +1805,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 8078,
-      "saved": true
+      "totalDownloads": 8253,
+      "owner": "github:chiraggude",
+      "versions": 1
     },
     {
       "title": "Newton Light",
@@ -1756,8 +1831,9 @@
         "file": "newtonlight.css",
         "dark": false
       },
-      "totalDownloads": 3706,
-      "saved": true
+      "totalDownloads": 3798,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Newton Dark",
@@ -1781,8 +1857,9 @@
         "file": "newtondark.css",
         "dark": true
       },
-      "totalDownloads": 5527,
-      "saved": true
+      "totalDownloads": 5634,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Varz Dark",
@@ -1806,8 +1883,9 @@
         "file": "varzdark.css",
         "dark": true
       },
-      "totalDownloads": 3757,
-      "saved": true
+      "totalDownloads": 3813,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "name": "kiwi-kiwi-dark",
@@ -1827,8 +1905,9 @@
         "theme",
         "dark"
       ],
-      "totalDownloads": 4332,
-      "saved": true
+      "totalDownloads": 4380,
+      "owner": "github:wendrom",
+      "versions": 1
     },
     {
       "title": "Java Light",
@@ -1852,8 +1931,9 @@
         "file": "java-light.less",
         "dark": false
       },
-      "totalDownloads": 3853,
-      "saved": true
+      "totalDownloads": 3908,
+      "owner": "github:vikene",
+      "versions": 1
     },
     {
       "name": "spissl.son-of-obsidian",
@@ -1876,8 +1956,9 @@
       "keywords": [
         "Son of Obsidian, theme"
       ],
-      "totalDownloads": 2971,
-      "saved": true
+      "totalDownloads": 3013,
+      "owner": "github:LegibleEel",
+      "versions": 1
     },
     {
       "name": "wombatish-theme",
@@ -1901,8 +1982,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5465,
-      "saved": true
+      "totalDownloads": 5529,
+      "owner": "github:vlad-saling",
+      "versions": 2
     },
     {
       "title": "iPlastic",
@@ -1926,8 +2008,9 @@
         "file": "iplastic.css",
         "dark": false
       },
-      "totalDownloads": 3992,
-      "saved": true
+      "totalDownloads": 4076,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Midnight Pumpkin",
@@ -1951,8 +2034,9 @@
         "file": "midnightpumpkin.css",
         "dark": true
       },
-      "totalDownloads": 3871,
-      "saved": true
+      "totalDownloads": 3948,
+      "owner": "github:larz0",
+      "versions": 1
     },
     {
       "title": "Rhode Island Red",
@@ -1982,8 +2066,9 @@
         "dark": true
       },
       "screenshot": "screenshots/js.PNG",
-      "totalDownloads": 8267,
-      "saved": true
+      "totalDownloads": 8302,
+      "owner": "github:SteveMcArthur",
+      "versions": 7
     },
     {
       "title": "Azrem",
@@ -2007,8 +2092,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 2186,
-      "saved": true
+      "totalDownloads": 2216,
+      "owner": "github:abdelouahabb",
+      "versions": 1
     },
     {
       "title": "Pinkcutie",
@@ -2031,7 +2117,9 @@
         "file": "pinkcutie.css",
         "dark": true
       },
-      "totalDownloads": 2224
+      "totalDownloads": 2254,
+      "owner": "github:JDViz",
+      "versions": 1
     },
     {
       "title": "Moonlit Glacier",
@@ -2054,8 +2142,9 @@
         "file": "moonlitglacier.css",
         "dark": true
       },
-      "totalDownloads": 4377,
-      "saved": true
+      "totalDownloads": 4431,
+      "owner": "github:Phantomwalker",
+      "versions": 2
     },
     {
       "name": "laron.liquid",
@@ -2080,8 +2169,9 @@
       "categories": [
         "visual"
       ],
-      "totalDownloads": 7732,
-      "saved": true
+      "totalDownloads": 7793,
+      "owner": "github:LAron",
+      "versions": 2
     },
     {
       "name": "robingruenke.icecream",
@@ -2100,8 +2190,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3226,
-      "saved": true
+      "totalDownloads": 3260,
+      "owner": "github:eimfach",
+      "versions": 2
     },
     {
       "name": "reginbald.flat-theme",
@@ -2131,8 +2222,9 @@
         "dark",
         "theme"
       ],
-      "totalDownloads": 5547,
-      "saved": true
+      "totalDownloads": 5599,
+      "owner": "github:reginbald",
+      "versions": 1
     },
     {
       "name": "specials-menu",
@@ -2153,7 +2245,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2833
+      "totalDownloads": 2873,
+      "owner": "github:123dj",
+      "versions": 1
     },
     {
       "title": "Gengivized",
@@ -2181,8 +2275,9 @@
       "theme": {
         "file": "main.less"
       },
-      "totalDownloads": 1705,
-      "saved": true
+      "totalDownloads": 1733,
+      "owner": "github:jonathanargentiero",
+      "versions": 2
     },
     {
       "title": "Flattark Dark",
@@ -2212,8 +2307,9 @@
         "dark": true
       },
       "screenshot": "screen.png",
-      "totalDownloads": 10042,
-      "saved": true
+      "totalDownloads": 10116,
+      "owner": "github:yangodev",
+      "versions": 3
     },
     {
       "name": "aurooba.happylike",
@@ -2234,8 +2330,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2936,
-      "saved": true
+      "totalDownloads": 2974,
+      "owner": "github:aurooba",
+      "versions": 1
     },
     {
       "name": "brunnopleffken.light-table-theme",
@@ -2256,8 +2353,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4225,
-      "saved": true
+      "totalDownloads": 4294,
+      "owner": "github:brunnopleffken",
+      "versions": 1
     },
     {
       "title": "Fox - Dark",
@@ -2289,8 +2387,9 @@
         "dark": true
       },
       "screenshot": "screenshots/fox.dark--js.jpg",
-      "totalDownloads": 5562,
-      "saved": true
+      "totalDownloads": 5635,
+      "owner": "github:karelvuong",
+      "versions": 2
     },
     {
       "title": "Dreamweaver Theme",
@@ -2311,8 +2410,9 @@
         "file": "theme.css",
         "dark": false
       },
-      "totalDownloads": 5981,
-      "saved": true
+      "totalDownloads": 6123,
+      "owner": "github:dastani",
+      "versions": 1
     },
     {
       "name": "yo-theme",
@@ -2333,8 +2433,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2446,
-      "saved": true
+      "totalDownloads": 2470,
+      "owner": "github:aklenczar",
+      "versions": 1
     },
     {
       "title": "Visual Studio Dark",
@@ -2364,8 +2465,9 @@
       "engines": {
         "brackets": ">=1.1.0"
       },
-      "totalDownloads": 14985,
-      "saved": true
+      "totalDownloads": 15265,
+      "owner": "github:fergaldoyle",
+      "versions": 7
     },
     {
       "title": "Chrome",
@@ -2388,7 +2490,9 @@
         "file": "main.less"
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 7006
+      "totalDownloads": 7081,
+      "owner": "github:mrameezraja",
+      "versions": 1
     },
     {
       "title": "Black Mint Theme",
@@ -2418,8 +2522,9 @@
         "dark": true
       },
       "screenshot": "screen.png",
-      "totalDownloads": 6213,
-      "saved": true
+      "totalDownloads": 6268,
+      "owner": "github:JulienMcJay",
+      "versions": 1
     },
     {
       "title": "Github Theme",
@@ -2442,8 +2547,9 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 5385,
-      "saved": true
+      "totalDownloads": 5473,
+      "owner": "github:georapbox",
+      "versions": 1
     },
     {
       "title": "Dream PHP",
@@ -2476,8 +2582,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.0.0",
-      "totalDownloads": 5292,
-      "saved": true
+      "totalDownloads": 5445,
+      "owner": "github:cithukyaw",
+      "versions": 1
     },
     {
       "name": "com.rubenengelbrecht.frackets",
@@ -2498,8 +2605,9 @@
       "keywords": [
         "theme, flat, ruben, engelbrecht, frackets, beautiful"
       ],
-      "totalDownloads": 2592,
-      "saved": true
+      "totalDownloads": 2628,
+      "owner": "github:RubenRME",
+      "versions": 1
     },
     {
       "name": "tremendus-dark-theme",
@@ -2518,8 +2626,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4414,
-      "saved": true
+      "totalDownloads": 4489,
+      "owner": "github:tremendus",
+      "versions": 3
     },
     {
       "title": "Zeedijk",
@@ -2542,8 +2651,9 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 2321,
-      "saved": true
+      "totalDownloads": 2354,
+      "owner": "github:fredserva",
+      "versions": 1
     },
     {
       "name": "dustindowell.neon",
@@ -2568,8 +2678,9 @@
         "neon",
         "dark"
       ],
-      "totalDownloads": 28426,
-      "saved": true
+      "totalDownloads": 28965,
+      "owner": "github:dustindowell22",
+      "versions": 19
     },
     {
       "name": "os.xcode.theme",
@@ -2598,8 +2709,9 @@
         "yosemite",
         "avril"
       ],
-      "totalDownloads": 16382,
-      "saved": true
+      "totalDownloads": 16616,
+      "owner": "github:DH3ALEJANDRO",
+      "versions": 10
     },
     {
       "name": "kreshikhin.alien-planet",
@@ -2624,8 +2736,9 @@
         "alien",
         "planet"
       ],
-      "totalDownloads": 2597,
-      "saved": true
+      "totalDownloads": 2647,
+      "owner": "github:kreshikhin",
+      "versions": 1
     },
     {
       "title": "Brackets Very Dark",
@@ -2643,7 +2756,9 @@
         "file": "Jay.less",
         "dark": true
       },
-      "totalDownloads": 5148
+      "totalDownloads": 5196,
+      "owner": "github:JayceeMinecraft",
+      "versions": 5
     },
     {
       "title": "Crystal Blue",
@@ -2663,7 +2778,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 7771
+      "totalDownloads": 7852,
+      "owner": "github:TadorHead",
+      "versions": 3
     },
     {
       "title": "Black Flat theme - Brackets Theme",
@@ -2685,7 +2802,9 @@
         "dark": true
       },
       "screenshot": "screen.png",
-      "totalDownloads": 3441
+      "totalDownloads": 3518,
+      "owner": "github:MatheusSThomaz",
+      "versions": 1
     },
     {
       "name": "tadorhead.graphite-in-neon",
@@ -2705,8 +2824,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3462,
-      "saved": true
+      "totalDownloads": 3501,
+      "owner": "github:TadorHead",
+      "versions": 1
     },
     {
       "name": "funkemedia.fnk-dark-theme",
@@ -2730,8 +2850,9 @@
         "dark",
         "dreamweaver"
       ],
-      "totalDownloads": 4599,
-      "saved": true
+      "totalDownloads": 5188,
+      "owner": "github:FnkSte",
+      "versions": 2
     },
     {
       "name": "jimgallaher.cobalt",
@@ -2757,8 +2878,9 @@
         "cobalt",
         "dark"
       ],
-      "totalDownloads": 4162,
-      "saved": true
+      "totalDownloads": 4293,
+      "owner": "github:jcgallaher",
+      "versions": 2
     },
     {
       "name": "jimgallaherblackboard",
@@ -2784,8 +2906,9 @@
         "blackboard",
         "dark"
       ],
-      "totalDownloads": 5264,
-      "saved": true
+      "totalDownloads": 5373,
+      "owner": "github:jcgallaher",
+      "versions": 2
     },
     {
       "name": "jimgallaher.hannah",
@@ -2811,8 +2934,9 @@
         "hannah",
         "purple"
       ],
-      "totalDownloads": 2144,
-      "saved": true
+      "totalDownloads": 2191,
+      "owner": "github:jcgallaher",
+      "versions": 1
     },
     {
       "title": "Ceratrior",
@@ -2828,8 +2952,9 @@
         "file": "ceratrior.css",
         "dark": true
       },
-      "totalDownloads": 2339,
-      "saved": true
+      "totalDownloads": 2362,
+      "owner": "github:Voronar",
+      "versions": 1
     },
     {
       "title": "Stripper",
@@ -2853,8 +2978,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 10697,
-      "saved": true
+      "totalDownloads": 10870,
+      "owner": "github:Visualbam",
+      "versions": 10
     },
     {
       "name": "hegdeashwin.brackets-nodejs-theme",
@@ -2876,8 +3002,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2762,
-      "saved": true
+      "totalDownloads": 2826,
+      "owner": "github:hegdeashwin",
+      "versions": 1
     },
     {
       "title": "Blumberry Theme",
@@ -2909,8 +3036,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.1.0",
-      "totalDownloads": 3092,
-      "saved": true
+      "totalDownloads": 3150,
+      "owner": "github:jomurgel",
+      "versions": 1
     },
     {
       "name": "josephgf.obsidian2",
@@ -2932,8 +3060,9 @@
       "keywords": [
         "obsidian, theme"
       ],
-      "totalDownloads": 5856,
-      "saved": true
+      "totalDownloads": 5977,
+      "owner": "github:JosephGF",
+      "versions": 5
     },
     {
       "name": "dsgn.dracula-theme",
@@ -2964,15 +3093,16 @@
         "type": "git",
         "url": "git://github.com/NetOperatorWibby/DraculaBrackets.git"
       },
-      "totalDownloads": 5058,
-      "saved": true
+      "totalDownloads": 5406,
+      "owner": "github:NetOperatorWibby",
+      "versions": 2
     },
     {
       "name": "roberthchan.geekotheme",
       "title": "Geekowater",
       "description": "Tema Geeko basado en la guía de estilo de Peter Gabriel's Debut Album en TheDaysColor.",
       "homepage": "https://github.com/roberthchan/roberthchan.geekotheme",
-      "version": "0.1.2",
+      "version": "0.1.4",
       "author": {
         "name": "Roberth Chan chanbalamb@gmail.com",
         "url": "http://wp.me/p5cVcr-2X"
@@ -2986,8 +3116,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 3083,
-      "saved": true
+      "totalDownloads": 4398,
+      "owner": "github:roberthchan",
+      "versions": 5
     },
     {
       "title": "Sob Theme",
@@ -3011,8 +3142,9 @@
         "file": "sob.css",
         "dark": true
       },
-      "totalDownloads": 1864,
-      "saved": true
+      "totalDownloads": 1936,
+      "owner": "github:Kocisov",
+      "versions": 1
     },
     {
       "name": "flatlandish",
@@ -3036,8 +3168,9 @@
       "keywords": [
         "theme, flatland, flatlandish, flat, subtle, easy, eyes"
       ],
-      "totalDownloads": 5437,
-      "saved": true
+      "totalDownloads": 5526,
+      "owner": "github:nickfmc",
+      "versions": 7
     },
     {
       "title": "Tomorrow Night Eighties",
@@ -3062,8 +3195,9 @@
         "dark": true
       },
       "screenshot": "tomorrow-night-eighties-css.tiff",
-      "totalDownloads": 3881,
-      "saved": true
+      "totalDownloads": 3985,
+      "owner": "github:patrickfatrick",
+      "versions": 7
     },
     {
       "title": "Spacegray-Brackets",
@@ -3091,8 +3225,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 7516,
-      "saved": true
+      "totalDownloads": 7757,
+      "owner": "github:alexpersian",
+      "versions": 2
     },
     {
       "title": "Orchid Theme",
@@ -3117,8 +3252,9 @@
         "dark": true
       },
       "screenshot": "orchid-js.tiff",
-      "totalDownloads": 2294,
-      "saved": true
+      "totalDownloads": 2334,
+      "owner": "github:patrickfatrick",
+      "versions": 4
     },
     {
       "title": "JetBrains Darcula",
@@ -3143,8 +3279,9 @@
       "keywords": [
         "theme, darcula, webstorm, jetbrains, intellij"
       ],
-      "totalDownloads": 4459,
-      "saved": true
+      "totalDownloads": 4597,
+      "owner": "github:AlbertoDorado",
+      "versions": 1
     },
     {
       "name": "warnney.darkcloud",
@@ -3164,8 +3301,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 5072,
-      "saved": true
+      "totalDownloads": 5152,
+      "owner": "github:Warnney",
+      "versions": 1
     },
     {
       "name": "mignonstyle.simple",
@@ -3196,8 +3334,9 @@
           "description": "Bracketsのための、白をベースとしたシンプルなライトカラーのテーマです。"
         }
       },
-      "totalDownloads": 3616,
-      "saved": true
+      "totalDownloads": 3793,
+      "owner": "github:mignonstyle",
+      "versions": 2
     },
     {
       "name": "warnney.bluedream",
@@ -3217,8 +3356,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2636,
-      "saved": true
+      "totalDownloads": 2677,
+      "owner": "github:Warnney",
+      "versions": 1
     },
     {
       "name": "resonant-light-theme",
@@ -3242,7 +3382,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 4104
+      "totalDownloads": 4191,
+      "owner": "github:dbrollini",
+      "versions": 3
     },
     {
       "name": "pthdc.pixelariumdark",
@@ -3265,8 +3407,9 @@
         "dark",
         "color"
       ],
-      "totalDownloads": 3070,
-      "saved": true
+      "totalDownloads": 3123,
+      "owner": "github:TommyHernandez",
+      "versions": 1
     },
     {
       "name": "darksystemcd-brackets-theme",
@@ -3296,8 +3439,9 @@
         "wds",
         "wdhells"
       ],
-      "totalDownloads": 2500,
-      "saved": true
+      "totalDownloads": 2541,
+      "owner": "github:wds-connections",
+      "versions": 1
     },
     {
       "name": "warapitiya.unity",
@@ -3318,8 +3462,9 @@
         "email": "warapitiya93@gmail.com"
       },
       "license": "MIT",
-      "totalDownloads": 3271,
-      "saved": true
+      "totalDownloads": 3367,
+      "owner": "github:warapitiya",
+      "versions": 1
     },
     {
       "name": "flat-ui-theme",
@@ -3355,8 +3500,9 @@
         "extension",
         "fork"
       ],
-      "totalDownloads": 3746,
-      "saved": true
+      "totalDownloads": 3847,
+      "owner": "github:FreDeRoover",
+      "versions": 3
     },
     {
       "title": "RecognEyes",
@@ -3374,7 +3520,9 @@
         "file": "main.less",
         "dark": true
       },
-      "totalDownloads": 1279
+      "totalDownloads": 1323,
+      "owner": "github:ytyukhnin",
+      "versions": 1
     },
     {
       "name": "yantrio.base-16-ocean-dark-theme",
@@ -3396,8 +3544,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2501,
-      "saved": true
+      "totalDownloads": 2579,
+      "owner": "github:Yantrio",
+      "versions": 1
     },
     {
       "title": "No Highlight",
@@ -3427,8 +3576,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "1.0.1",
-      "totalDownloads": 1309,
-      "saved": true
+      "totalDownloads": 1352,
+      "owner": "github:dnbard",
+      "versions": 2
     },
     {
       "name": "x-mat.speed-material-dark-theme",
@@ -3455,8 +3605,9 @@
         "x",
         "material"
       ],
-      "totalDownloads": 3300,
-      "saved": true
+      "totalDownloads": 3461,
+      "owner": "github:x-mat",
+      "versions": 1
     },
     {
       "name": "flat-attack-theme",
@@ -3477,8 +3628,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2159,
-      "saved": true
+      "totalDownloads": 2262,
+      "owner": "github:ostranme",
+      "versions": 1
     },
     {
       "name": "flat-attack-dark-theme",
@@ -3511,8 +3663,9 @@
         "dark",
         "extension"
       ],
-      "totalDownloads": 9525,
-      "saved": true
+      "totalDownloads": 10026,
+      "owner": "github:ostranme",
+      "versions": 6
     },
     {
       "title": "Stripper (Clean UI Redo)",
@@ -3540,8 +3693,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 3400,
-      "saved": true
+      "totalDownloads": 3535,
+      "owner": "github:hendrysadrak",
+      "versions": 1
     },
     {
       "title": "Birds Of Paradise",
@@ -3569,8 +3723,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1320,
-      "saved": true
+      "totalDownloads": 1390,
+      "owner": "github:jonasflint",
+      "versions": 1
     },
     {
       "name": "flat-attack-light-theme",
@@ -3603,8 +3758,9 @@
         "light",
         "extension"
       ],
-      "totalDownloads": 1950,
-      "saved": true
+      "totalDownloads": 2111,
+      "owner": "github:ostranme",
+      "versions": 1
     },
     {
       "title": "truedesign Subtle Light",
@@ -3628,7 +3784,9 @@
         "blue",
         "truedesign"
       ],
-      "totalDownloads": 2981
+      "totalDownloads": 3174,
+      "owner": "github:truedesign2",
+      "versions": 5
     },
     {
       "name": "terere-theme",
@@ -3650,8 +3808,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1045,
-      "saved": true
+      "totalDownloads": 1119,
+      "owner": "github:ahlechandre/terere-theme",
+      "versions": 1
     },
     {
       "title": "Ariane",
@@ -3687,8 +3846,9 @@
       "keywords": [
         "ariane, ariane theme, purple, purple theme, violet, violet theme, theme"
       ],
-      "totalDownloads": 2139,
-      "saved": true
+      "totalDownloads": 2214,
+      "owner": "github:erknrio",
+      "versions": 3
     },
     {
       "name": "brackets-eclipse-theme",
@@ -3714,8 +3874,9 @@
         "brackets",
         "rjfun"
       ],
-      "totalDownloads": 2050,
-      "saved": true
+      "totalDownloads": 2186,
+      "owner": "github:floatinghotpot",
+      "versions": 1
     },
     {
       "title": "Flat Zeedijk",
@@ -3738,8 +3899,9 @@
         "file": "main.css",
         "dark": false
       },
-      "totalDownloads": 1239,
-      "saved": true
+      "totalDownloads": 1313,
+      "owner": "github:fredserva",
+      "versions": 1
     },
     {
       "name": "brackets-pryme",
@@ -3768,8 +3930,9 @@
         "colourful",
         "fun"
       ],
-      "totalDownloads": 3398,
-      "saved": true
+      "totalDownloads": 3630,
+      "owner": "github:AriShPryme",
+      "versions": 3
     },
     {
       "name": "warapitiya.neptune",
@@ -3793,8 +3956,9 @@
         "email": "warapitiya93@gmail.com"
       },
       "license": "MIT",
-      "totalDownloads": 1915,
-      "saved": true
+      "totalDownloads": 2014,
+      "owner": "github:warapitiya",
+      "versions": 1
     },
     {
       "name": "solarized-dark-theme",
@@ -3817,8 +3981,9 @@
         "Solarized",
         "Dark"
       ],
-      "totalDownloads": 3456,
-      "saved": true
+      "totalDownloads": 3688,
+      "owner": "github:ShaneRamiah",
+      "versions": 2
     },
     {
       "title": "Pretty Light Theme (for Brackets)",
@@ -3844,8 +4009,9 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 1939,
-      "saved": true
+      "totalDownloads": 2075,
+      "owner": "github:mmkjony",
+      "versions": 1
     },
     {
       "title": "Theme / Spring Light",
@@ -3880,8 +4046,9 @@
         "brackets": ">=1.0.0"
       },
       "version": "0.8.2",
-      "totalDownloads": 3111,
-      "saved": true
+      "totalDownloads": 3369,
+      "owner": "github:MerryPanda",
+      "versions": 3
     },
     {
       "name": "manse.mannari",
@@ -3917,8 +4084,9 @@
         "extension",
         "mannari"
       ],
-      "totalDownloads": 2202,
-      "saved": true
+      "totalDownloads": 2349,
+      "owner": "github:manse",
+      "versions": 1
     },
     {
       "name": "maityarkodeb.sand",
@@ -3941,8 +4109,9 @@
         "dark",
         "sand"
       ],
-      "totalDownloads": 1423,
-      "saved": true
+      "totalDownloads": 1518,
+      "owner": "github:maityarkodeb",
+      "versions": 1
     },
     {
       "name": "maityarkodeb.neon-highway",
@@ -3966,8 +4135,9 @@
         "neon",
         "highway"
       ],
-      "totalDownloads": 2104,
-      "saved": true
+      "totalDownloads": 2218,
+      "owner": "github:maityarkodeb",
+      "versions": 1
     },
     {
       "name": "rolando_zabala_ii-first_custom_theme",
@@ -3989,7 +4159,9 @@
       "keywords": [
         "theme, custom, dark-background, colorful-text,"
       ],
-      "totalDownloads": 1651
+      "totalDownloads": 1728,
+      "owner": "github:rolo298github",
+      "versions": 1
     },
     {
       "name": "fletcherhenneman.darkpanja",
@@ -4011,8 +4183,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 2082,
-      "saved": true
+      "totalDownloads": 2181,
+      "owner": "github:Coler234",
+      "versions": 1
     },
     {
       "name": "com.mgenware.son-of-obsidian",
@@ -4035,7 +4208,9 @@
         "Son of Obsidian",
         "dark"
       ],
-      "totalDownloads": 2491
+      "totalDownloads": 2674,
+      "owner": "github:mgenware",
+      "versions": 1
     },
     {
       "name": "masoud.geditlover",
@@ -4060,8 +4235,9 @@
       "keywords": [
         "theme, dark, gedit"
       ],
-      "totalDownloads": 877,
-      "saved": true
+      "totalDownloads": 959,
+      "owner": "github:johnluckbolzano",
+      "versions": 1
     },
     {
       "title": "PH easy dark",
@@ -4083,8 +4259,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1659,
-      "saved": true
+      "totalDownloads": 1822,
+      "owner": "github:Pooria-H",
+      "versions": 1
     },
     {
       "name": "dark-deluxe-theme",
@@ -4115,8 +4292,9 @@
         "highlighting",
         "syntax"
       ],
-      "totalDownloads": 7376,
-      "saved": true
+      "totalDownloads": 7991,
+      "owner": "github:ChynoDeluxe",
+      "versions": 4
     },
     {
       "name": "lzia.lunies",
@@ -4140,8 +4318,9 @@
         "dark theme",
         "flat"
       ],
-      "totalDownloads": 1362,
-      "saved": true
+      "totalDownloads": 1481,
+      "owner": "github:lzia",
+      "versions": 2
     },
     {
       "title": "Monokromatik-green",
@@ -4165,8 +4344,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 944,
-      "saved": true
+      "totalDownloads": 1056,
+      "owner": "github:derek-skinner",
+      "versions": 1
     },
     {
       "title": "Monokromatik-blue",
@@ -4190,8 +4370,9 @@
         "file": "theme.css",
         "dark": true
       },
-      "totalDownloads": 1160,
-      "saved": true
+      "totalDownloads": 1283,
+      "owner": "github:derek-skinner",
+      "versions": 1
     },
     {
       "name": "kornelceglarek.bluee",
@@ -4212,7 +4393,9 @@
       "keywords": [
         "theme"
       ],
-      "totalDownloads": 1306
+      "totalDownloads": 1415,
+      "owner": "github:korneldev",
+      "versions": 1
     },
     {
       "name": "mynimi.gemstones-theme",
@@ -4239,8 +4422,9 @@
         "calm",
         "cool"
       ],
-      "totalDownloads": 1697,
-      "saved": true
+      "totalDownloads": 1856,
+      "owner": "github:mynimi",
+      "versions": 1
     },
     {
       "name": "explicit-brackets-style",
@@ -4256,8 +4440,9 @@
         "file": "theme.less",
         "dark": true
       },
-      "totalDownloads": 1686,
-      "saved": true
+      "totalDownloads": 1835,
+      "owner": "github:Devilly",
+      "versions": 2
     },
     {
       "name": "stephen.epic-night",
@@ -4281,7 +4466,9 @@
         "epic",
         "night"
       ],
-      "totalDownloads": 2347
+      "totalDownloads": 2542,
+      "owner": "github:StephenSantilli9",
+      "versions": 1
     },
     {
       "name": "stephen.epic-light",
@@ -4306,7 +4493,9 @@
         "light",
         "epiclight"
       ],
-      "totalDownloads": 1901
+      "totalDownloads": 2115,
+      "owner": "github:StephenSantilli9",
+      "versions": 2
     },
     {
       "name": "somethingblue",
@@ -4330,8 +4519,9 @@
         "blue",
         "theme"
       ],
-      "totalDownloads": 877,
-      "saved": true
+      "totalDownloads": 994,
+      "owner": "github:macrue",
+      "versions": 1
     },
     {
       "name": "brackets-theme-darktooth",
@@ -4356,7 +4546,9 @@
       "categories": [
         "visual"
       ],
-      "totalDownloads": 1346
+      "totalDownloads": 1551,
+      "owner": "github:Poorchop",
+      "versions": 1
     },
     {
       "name": "dustindowell.neon-morning",
@@ -4382,8 +4574,9 @@
         "morning",
         "dark"
       ],
-      "totalDownloads": 1715,
-      "saved": true
+      "totalDownloads": 1972,
+      "owner": "github:dustindowell22",
+      "versions": 2
     },
     {
       "title": "Guacamayo",
@@ -4403,8 +4596,9 @@
         "dark": true,
         "addModeClass": true
       },
-      "totalDownloads": 1471,
-      "saved": true
+      "totalDownloads": 1714,
+      "owner": "github:blonfu",
+      "versions": 1
     },
     {
       "title": "One Dark Theme",
@@ -4428,8 +4622,9 @@
         "dark": true
       },
       "screenshot": "screenshot.png",
-      "totalDownloads": 4275,
-      "saved": true
+      "totalDownloads": 4937,
+      "owner": "github:hikio",
+      "versions": 2
     },
     {
       "name": "neats29.deep-blue",
@@ -4455,7 +4650,9 @@
       "bugs": {
         "url": "https://github.com/Neats29/theme/issues"
       },
-      "totalDownloads": 2021
+      "totalDownloads": 2360,
+      "owner": "github:Neats29",
+      "versions": 2
     },
     {
       "name": "stephen.epic-green",
@@ -4479,8 +4676,9 @@
         "epic",
         "green"
       ],
-      "totalDownloads": 1821,
-      "saved": true
+      "totalDownloads": 2107,
+      "owner": "github:StephenSantilli9",
+      "versions": 1
     },
     {
       "name": "fthiagogv.naturegreen-dark-syntax",
@@ -4503,7 +4701,9 @@
       "engines": {
         "atom": ">=1.0.0 < 2.0.0"
       },
-      "totalDownloads": 1245
+      "totalDownloads": 1496,
+      "owner": "github:fthiagogv",
+      "versions": 1
     },
     {
       "name": "mynimi.gemstones-theme-light",
@@ -4530,8 +4730,9 @@
         "calm",
         "cool"
       ],
-      "totalDownloads": 1102,
-      "saved": true
+      "totalDownloads": 1507,
+      "owner": "github:mynimi",
+      "versions": 1
     },
     {
       "name": "os-x-style-dark-theme",
@@ -4563,7 +4764,9 @@
         "dark",
         "extension"
       ],
-      "totalDownloads": 3281
+      "totalDownloads": 5050,
+      "owner": "github:aydieneue",
+      "versions": 1
     },
     {
       "title": "Subtly Light",
@@ -4588,7 +4791,9 @@
         "file": "main.less",
         "dark": false
       },
-      "totalDownloads": 1450
+      "totalDownloads": 2068,
+      "owner": "github:JayBoucher",
+      "versions": 4
     },
     {
       "name": "dark-conrtrast-theme",
@@ -4616,7 +4821,9 @@
         "highlighting",
         "syntax"
       ],
-      "totalDownloads": 1610
+      "totalDownloads": 2626,
+      "owner": "github:Aardwolf95",
+      "versions": 1
     },
     {
       "title": "Ceratrior II (inspired by Material design)",
@@ -4632,15 +4839,16 @@
         "file": "ceratrior2.css",
         "dark": true
       },
-      "totalDownloads": 641,
-      "saved": true
+      "totalDownloads": 1505,
+      "owner": "github:Voronar",
+      "versions": 1
     },
     {
       "name": "raven",
       "title": "Raven",
       "description": "Dark color scheme based on Dreamweavers Raven theme",
       "homepage": "https://github.com/JTruax/brackets-theme-raven.git",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "author": {
         "name": "Justin Truax",
         "url": "http://justintruax.com"
@@ -4659,7 +4867,233 @@
         "flat",
         "highlighting"
       ],
-      "totalDownloads": 1034
+      "totalDownloads": 3134,
+      "owner": "github:JTruax",
+      "versions": 3
+    },
+    {
+      "title": "New Moon",
+      "name": "new-moon",
+      "description": "New Moon Theme",
+      "version": "1.0.9",
+      "author": {
+        "name": "Tania Rascia",
+        "email": "taniarascia@gmail.com",
+        "url": "http://www.taniarascia.com"
+      },
+      "homepage": "https://github.com/taniarascia/new-moon",
+      "license": "MIT",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/taniarascia/new-moon.git"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": true
+      },
+      "screenshot": "images/screenshot.png",
+      "totalDownloads": 2156,
+      "owner": "github:taniarascia",
+      "versions": 4
+    },
+    {
+      "name": "simple-blue-theme",
+      "title": "simple-blue-theme",
+      "description": "A simple theme to make coding easier with emphasis in color blue.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Alonso Zamorano"
+      },
+      "homepage": "https://github.com/600F1/simple-blue-theme",
+      "license": "MIT",
+      "theme": {
+        "file": "simple-blue-theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 482,
+      "owner": "github:600F1",
+      "versions": 1
+    },
+    {
+      "title": "New One Dark",
+      "name": "new-one-dark-theme",
+      "description": "Inspired by the One Dark Theme from Atom Editor",
+      "version": "1.1.0",
+      "author": {
+        "name": "moritzw1",
+        "url": "https://github.com/moritzw1"
+      },
+      "homepage": "https://github.com/moritzw1/one-dark-theme-for-brackets",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/moritzw1/one-dark-theme-for-brackets.git"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=1.1.0"
+      },
+      "theme": {
+        "file": "main.css",
+        "dark": true,
+        "addModeClass": true
+      },
+      "totalDownloads": 2642,
+      "owner": "github:moritzw1",
+      "versions": 3
+    },
+    {
+      "title": "Smooth Neutrals",
+      "name": "smooth-neutrals-theme",
+      "description": "Modified Son of Hammsidian Theme. Support for wangling in the colors of Jeff Booher's Bookmarks Extension to better fit the Smooth Neutrals theme.",
+      "version": "1.0.1",
+      "author": {
+        "name": "Gregory Smith"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/gregorytoddsmith/smooth-neutrals-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/gregorytoddsmith/smooth-neutrals-theme"
+      },
+      "keywords": [
+        "themes",
+        "smooth",
+        "neutral",
+        "neutrals"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "smooth-neutrals.css",
+        "dark": true
+      },
+      "totalDownloads": 308,
+      "owner": "github:gregorytoddsmith",
+      "versions": 1
+    },
+    {
+      "title": "Brackets Fusion",
+      "name": "brackets-fusion-theme",
+      "description": "Based on Smooth Neutrals Theme. Support for wangling in the colors of Jeff Booher's Bookmarks Extension.",
+      "version": "1.3.5",
+      "author": {
+        "name": "Max Graey maxgraey@gmail.com",
+        "url": "https://github.com/MaxGraey"
+      },
+      "license": "MIT",
+      "homepage": "https://github.com/maxgraey/brackets-fusion-theme",
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/maxgraey/brackets-fusion-theme"
+      },
+      "keywords": [
+        "themes",
+        "fusion",
+        "neutral",
+        "grey",
+        "flat",
+        "neutral"
+      ],
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "brackets-fusion-theme.less",
+        "dark": true
+      },
+      "totalDownloads": 2193,
+      "owner": "github:MaxGraey",
+      "versions": 16
+    },
+    {
+      "name": "mrdollywaggit.encode",
+      "title": "Encode",
+      "description": "A design-oriented theme that doesn't hurt your brain.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Mr. Dollywaggit"
+      },
+      "license": "MIT",
+      "engines": {
+        "brackets": ">=0.42.0"
+      },
+      "theme": {
+        "file": "main.less",
+        "dark": false,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme",
+        "design",
+        "clean",
+        "simple",
+        "light",
+        "candy",
+        "beautiful",
+        "themes",
+        "brackets"
+      ],
+      "totalDownloads": 738,
+      "owner": "github:MrDollywaggit",
+      "versions": 1
+    },
+    {
+      "name": "ethereal-theme",
+      "title": "Theme Ethereal",
+      "description": "An immortal theme for the Brackets IDE, easy on the eyes (and conscience).",
+      "homepage": "https://github.com/MJefferson/brackets-ethereal-theme",
+      "version": "1.0.0",
+      "author": {
+        "name": "Martial James Jefferson",
+        "email": "martial.jefferson@gmail.com",
+        "url": "http://mjefferson.github.io"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+      },
+      "keywords": [
+        "theme"
+      ],
+      "totalDownloads": 543,
+      "owner": "github:MJefferson",
+      "versions": 1
+    },
+    {
+      "name": "dark-proton-theme",
+      "title": "Dark Proton Theme",
+      "description": "Save your eyes, best theme for night-works.",
+      "homepage": "https://github.com/shohan4556/dark-proton",
+      "version": "1.0.0",
+      "author": {
+        "name": "shohan4556",
+        "url": "https://github.com/shohan4556"
+      },
+      "license": "MIT",
+      "theme": {
+        "file": "theme.less",
+        "dark": true
+      },
+      "keywords": [
+        "dark-proton",
+        "theme",
+        "dark",
+        "save-eyes",
+        "night-work"
+      ],
+      "categories": [
+        "visual"
+      ],
+      "totalDownloads": 459,
+      "owner": "github:shohan4556",
+      "versions": 1
     }
   ]
 }
